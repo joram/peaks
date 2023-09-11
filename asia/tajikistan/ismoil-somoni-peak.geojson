@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            72.01611,
+            38.94333
+        ]
+    },
+    "properties": {
+        "feet": 24590.0,
+        "meters": 7495.031760158984,
+        "latitude": 38.94333,
+        "longitude": 72.01611,
+        "name": "Ismoil Somoni Peak",
+        "countries": [
+            "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

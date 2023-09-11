@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.042722,
+            46.002139
+        ]
+    },
+    "properties": {
+        "feet": 10731.62764,
+        "meters": 3271.0,
+        "latitude": 46.002139,
+        "longitude": 7.042722,
+        "name": "Pointe d%27Orny",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

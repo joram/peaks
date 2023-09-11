@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.168306,
+            51.335
+        ]
+    },
+    "properties": {
+        "feet": 8077.42808,
+        "meters": 2462.0,
+        "latitude": 51.335,
+        "longitude": -115.168306,
+        "name": "Blackrock Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

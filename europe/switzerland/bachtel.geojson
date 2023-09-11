@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.88639,
+            47.29472
+        ]
+    },
+    "properties": {
+        "feet": 3658.1366,
+        "meters": 1115.0,
+        "latitude": 47.29472,
+        "longitude": 8.88639,
+        "name": "Bachtel",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

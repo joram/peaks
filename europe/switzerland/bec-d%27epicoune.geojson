@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.422444,
+            45.914611
+        ]
+    },
+    "properties": {
+        "feet": 11584.64604,
+        "meters": 3531.0,
+        "latitude": 45.914611,
+        "longitude": 7.422444,
+        "name": "Bec d%27Epicoune",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

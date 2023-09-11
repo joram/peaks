@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.07139,
+            45.06028
+        ]
+    },
+    "properties": {
+        "feet": 6102.3624,
+        "meters": 1860.0,
+        "latitude": 45.06028,
+        "longitude": 6.07139,
+        "name": "Alpe D%27Huez",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

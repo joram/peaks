@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.4375,
+            47.41139
+        ]
+    },
+    "properties": {
+        "feet": 9019.02916,
+        "meters": 2749.0,
+        "latitude": 47.41139,
+        "longitude": 11.4375,
+        "name": "Karwendel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

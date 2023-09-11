@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 7690,
-    "meters": 2344,
-    "name": "Ellmauer Halt",
-    "regions": [
-      "Northern Alps",
-      "Kitzbuhel"
-    ],
-    "countries": [
-      "Austria"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.30306,
+            47.56222
+        ]
+    },
+    "properties": {
+        "feet": 7690.28896,
+        "meters": 2344.0,
+        "latitude": 47.56222,
+        "longitude": 12.30306,
+        "name": "Ellmauer Halt",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

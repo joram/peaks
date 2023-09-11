@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.050086,
-      46.377231
-    ]
-  },
-  "properties": {
-    "feet": 10561,
-    "meters": 3219,
-    "latitude": 46.377231,
-    "longitude": 12.050086,
-    "name": "Monte Civetta",
-    "regions": [
-      "Eastern Alps",
-      "Dolomites"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05333,
+            46.38
+        ]
+    },
+    "properties": {
+        "feet": 10564.3048,
+        "meters": 3220.0,
+        "latitude": 46.38,
+        "longitude": 12.05333,
+        "name": "Monte Civetta",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

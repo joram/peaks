@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.26972,
+            45.51444
+        ]
+    },
+    "properties": {
+        "feet": 13323.49124,
+        "meters": 4061.0,
+        "latitude": 45.51444,
+        "longitude": 7.26972,
+        "name": "Gran Paradiso",
+        "countries": [
+            "Chile"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

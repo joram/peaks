@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.2175,
+            39.89472
+        ]
+    },
+    "properties": {
+        "feet": 7437.66428,
+        "meters": 2267.0,
+        "latitude": 39.89472,
+        "longitude": 16.2175,
+        "name": "Pollino",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

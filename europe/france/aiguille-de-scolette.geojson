@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.76778,
+            45.15944
+        ]
+    },
+    "properties": {
+        "feet": 11502.62504,
+        "meters": 3506.0,
+        "latitude": 45.15944,
+        "longitude": 6.76778,
+        "name": "Aiguille de Scolette",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

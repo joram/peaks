@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.905,
+            46.05778
+        ]
+    },
+    "properties": {
+        "feet": 11338.58304,
+        "meters": 3456.0,
+        "latitude": 46.05778,
+        "longitude": 7.905,
+        "name": "Mittelallalin",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

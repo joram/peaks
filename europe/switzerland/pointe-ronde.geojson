@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.02,
+            46.04083
+        ]
+    },
+    "properties": {
+        "feet": 8710.6302,
+        "meters": 2655.0,
+        "latitude": 46.04083,
+        "longitude": 7.02,
+        "name": "Pointe Ronde",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

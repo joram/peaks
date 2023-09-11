@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.15833,
+            49.28972
+        ]
+    },
+    "properties": {
+        "feet": 8074.14724,
+        "meters": 2461.0,
+        "latitude": 49.28972,
+        "longitude": -121.15833,
+        "name": "Mount Outram",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

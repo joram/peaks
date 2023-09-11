@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.781972,
+            46.728361
+        ]
+    },
+    "properties": {
+        "feet": 9931.10268,
+        "meters": 3027.0,
+        "latitude": 46.728361,
+        "longitude": 8.781972,
+        "name": "Piz Ault",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

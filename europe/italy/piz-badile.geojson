@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58611,
+            46.29472
+        ]
+    },
+    "properties": {
+        "feet": 10853.01872,
+        "meters": 3308.0,
+        "latitude": 46.29472,
+        "longitude": 9.58611,
+        "name": "Piz Badile",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

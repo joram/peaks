@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.50028,
+            48.16
+        ]
+    },
+    "properties": {
+        "feet": 6761.81124,
+        "meters": 2061.0,
+        "latitude": 48.16,
+        "longitude": 24.50028,
+        "name": "Hoverla",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

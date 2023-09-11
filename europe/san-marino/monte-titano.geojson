@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.45,
+            43.935
+        ]
+    },
+    "properties": {
+        "feet": 2424.54076,
+        "meters": 739.0,
+        "latitude": 43.935,
+        "longitude": 12.45,
+        "name": "Monte Titano",
+        "countries": [
+            "San Marino"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

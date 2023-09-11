@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.91889,
+            45.90444
+        ]
+    },
+    "properties": {
+        "feet": 11302.4938,
+        "meters": 3445.0,
+        "latitude": 45.90444,
+        "longitude": 6.91889,
+        "name": "Aiguille des Grands Charmoz",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

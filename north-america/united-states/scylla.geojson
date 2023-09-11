@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.6896676,
+            37.0801291
+        ]
+    },
+    "properties": {
+        "feet": 12956.0,
+        "meters": 3948.9886736323624,
+        "latitude": 37.0801291,
+        "longitude": -118.6896676,
+        "name": "Scylla",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

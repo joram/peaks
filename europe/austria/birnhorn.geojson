@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73361,
+            47.47472
+        ]
+    },
+    "properties": {
+        "feet": 8641.73256,
+        "meters": 2634.0,
+        "latitude": 47.47472,
+        "longitude": 12.73361,
+        "name": "Birnhorn",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

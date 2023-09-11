@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.98806,
+            45.86889
+        ]
+    },
+    "properties": {
+        "feet": 13805.77472,
+        "meters": 4208.0,
+        "latitude": 45.86889,
+        "longitude": 6.98806,
+        "name": "Pointe Walker",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

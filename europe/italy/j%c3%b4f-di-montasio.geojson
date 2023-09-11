@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.43389,
+            46.43833
+        ]
+    },
+    "properties": {
+        "feet": 9028.87168,
+        "meters": 2752.0,
+        "latitude": 46.43833,
+        "longitude": 13.43389,
+        "name": "J%C3%B4f di Montasio",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

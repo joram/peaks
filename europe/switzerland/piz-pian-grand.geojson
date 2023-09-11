@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.15575,
+            46.417528
+        ]
+    },
+    "properties": {
+        "feet": 8822.17876,
+        "meters": 2689.0,
+        "latitude": 46.417528,
+        "longitude": 9.15575,
+        "name": "Piz Pian Grand",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

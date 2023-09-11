@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12034,
-    "meters": 3668,
-    "name": "Aiguille de la Tsa",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.52222,
+            46.02139
+        ]
+    },
+    "properties": {
+        "feet": 12034.12112,
+        "meters": 3668.0,
+        "latitude": 46.02139,
+        "longitude": 7.52222,
+        "name": "Aiguille de la Tsa",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            160.644089,
+            56.056044
+        ]
+    },
+    "properties": {
+        "feet": 15597.11336,
+        "meters": 4754.0,
+        "latitude": 56.056044,
+        "longitude": 160.644089,
+        "name": "Klyuchevskaya Sopka",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

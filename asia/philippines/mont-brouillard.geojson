@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.865,
+            45.8175
+        ]
+    },
+    "properties": {
+        "feet": 13349.73796,
+        "meters": 4069.0,
+        "latitude": 45.8175,
+        "longitude": 6.865,
+        "name": "Mont Brouillard",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

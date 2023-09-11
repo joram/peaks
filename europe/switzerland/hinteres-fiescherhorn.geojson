@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06778,
+            46.54639
+        ]
+    },
+    "properties": {
+        "feet": 13205.381,
+        "meters": 4025.0,
+        "latitude": 46.54639,
+        "longitude": 8.06778,
+        "name": "Hinteres Fiescherhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

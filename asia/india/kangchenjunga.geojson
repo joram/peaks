@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            88.14667,
+            27.7025
+        ]
+    },
+    "properties": {
+        "feet": 28169.29224,
+        "meters": 8586.0,
+        "latitude": 27.7025,
+        "longitude": 88.14667,
+        "name": "Kangchenjunga",
+        "countries": [
+            "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

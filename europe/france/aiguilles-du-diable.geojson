@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.89028,
+            45.85472
+        ]
+    },
+    "properties": {
+        "feet": 13497.37576,
+        "meters": 4114.0,
+        "latitude": 45.85472,
+        "longitude": 6.89028,
+        "name": "Aiguilles du Diable",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

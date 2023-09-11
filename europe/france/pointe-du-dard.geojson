@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.76556,
+            45.36389
+        ]
+    },
+    "properties": {
+        "feet": 10518.37304,
+        "meters": 3206.0,
+        "latitude": 45.36389,
+        "longitude": 6.76556,
+        "name": "Pointe du Dard",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

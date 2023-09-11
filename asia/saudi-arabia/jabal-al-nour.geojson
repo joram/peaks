@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.86139,
+            21.45806
+        ]
+    },
+    "properties": {
+        "feet": 2106.29928,
+        "meters": 642.0,
+        "latitude": 21.45806,
+        "longitude": 39.86139,
+        "name": "Jabal al-Nour",
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

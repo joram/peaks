@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -154.96639,
+            67.41306
+        ]
+    },
+    "properties": {
+        "feet": 8276.0,
+        "meters": 2522.524719279209,
+        "latitude": 67.41306,
+        "longitude": -154.96639,
+        "name": "Mount Igikpak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

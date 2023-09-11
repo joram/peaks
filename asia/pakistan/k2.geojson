@@ -1,28 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      76.5133,
-      35.8825
-    ]
-  },
-  "properties": {
-    "feet": 28253,
-    "meters": 8612,
-    "latitude": 35.8825,
-    "longitude": 76.5133,
-    "name": "K2",
-    "regions": [
-      "Central Asia Ranges",
-      "Karakoram "
-    ],
-    "countries": [
-      "Pakistan",
-      "China"
-    ],
-    "continent": "Asia",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            76.51333,
+            35.8825
+        ]
+    },
+    "properties": {
+        "feet": 28251.31324,
+        "meters": 8611.0,
+        "latitude": 35.8825,
+        "longitude": 76.51333,
+        "name": "K2",
+        "countries": [
+            "Pakistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

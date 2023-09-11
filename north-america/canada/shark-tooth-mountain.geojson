@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.570806,
+            50.068306
+        ]
+    },
+    "properties": {
+        "feet": 8310.36772,
+        "meters": 2533.0,
+        "latitude": 50.068306,
+        "longitude": -115.570806,
+        "name": "Shark Tooth Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

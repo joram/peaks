@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12907,
-    "meters": 3934,
-    "name": "Bietschhorn",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85075,
+            46.39125
+        ]
+    },
+    "properties": {
+        "feet": 12906.82456,
+        "meters": 3934.0,
+        "latitude": 46.39125,
+        "longitude": 7.85075,
+        "name": "Bietschhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

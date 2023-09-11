@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            16.59693,
+            43.9450943
+        ]
+    },
+    "properties": {
+        "feet": 6276.24692,
+        "meters": 1913.0,
+        "latitude": 43.9450943,
+        "longitude": 16.59693,
+        "name": "Dinara",
+        "countries": [
+            "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

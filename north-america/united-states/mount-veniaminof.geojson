@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -159.2975,
-            56.2194
+            -159.39083,
+            56.19806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 56.2194,
-        "longitude": -159.2975,
+        "feet": 8225.0,
+        "meters": 2506.9799197766424,
+        "latitude": 56.19806,
+        "longitude": -159.39083,
         "name": "Mount Veniaminof",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

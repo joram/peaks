@@ -3,21 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -80.333,
-            47.383
+            -123.60583,
+            48.83222
         ]
     },
     "properties": {
-        "feet": 2106.29928,
-        "meters": 642.0,
-        "latitude": 47.383,
-        "longitude": -80.333,
+        "feet": 1660.10504,
+        "meters": 506.0,
+        "latitude": 48.83222,
+        "longitude": -123.60583,
         "name": "Maple Mountain",
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "triangle"
     }
 }

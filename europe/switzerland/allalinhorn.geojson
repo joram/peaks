@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 13212,
-    "meters": 4027,
-    "name": "Allalinhorn",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.894806,
+            46.046139
+        ]
+    },
+    "properties": {
+        "feet": 13211.94268,
+        "meters": 4027.0,
+        "latitude": 46.046139,
+        "longitude": 7.894806,
+        "name": "Allalinhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

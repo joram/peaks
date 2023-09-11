@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.05194,
+            48.08333
+        ]
+    },
+    "properties": {
+        "feet": 4239.0,
+        "meters": 1292.0471586544909,
+        "latitude": 48.08333,
+        "longitude": 7.05194,
+        "name": "Le Tanet",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

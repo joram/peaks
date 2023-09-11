@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73139,
+            47.13083
+        ]
+    },
+    "properties": {
+        "feet": 11141.73264,
+        "meters": 3396.0,
+        "latitude": 47.13083,
+        "longitude": 12.73139,
+        "name": "Gro%C3%9Fer B%C3%A4renkopf",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

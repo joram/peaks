@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.7575,
+            42.67583
+        ]
+    },
+    "properties": {
+        "feet": 14603.01884,
+        "meters": 4451.0,
+        "latitude": 42.67583,
+        "longitude": 44.7575,
+        "name": "Mount Shani",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

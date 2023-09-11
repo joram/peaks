@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61472,
+            48.97861
+        ]
+    },
+    "properties": {
+        "feet": 1906.16804,
+        "meters": 581.0,
+        "latitude": 48.97861,
+        "longitude": 7.61472,
+        "name": "Grand Wintersberg",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

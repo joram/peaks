@@ -1,24 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 7772,
-    "meters": 2369,
-    "name": "Hochtor",
-    "regions": [
-      "Eastern Alps"
-    ],
-    "countries": [
-      "Austria"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.63278,
+            47.56167
+        ]
+    },
+    "properties": {
+        "feet": 7772.30996,
+        "meters": 2369.0,
+        "latitude": 47.56167,
+        "longitude": 14.63278,
+        "name": "Hochtor",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

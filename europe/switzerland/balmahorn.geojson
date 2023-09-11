@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.07583,
+            46.13778
+        ]
+    },
+    "properties": {
+        "feet": 9416.0108,
+        "meters": 2870.0,
+        "latitude": 46.13778,
+        "longitude": 8.07583,
+        "name": "Balmahorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            97.53556,
+            28.32833
+        ]
+    },
+    "properties": {
+        "feet": 19294.62004,
+        "meters": 5881.0,
+        "latitude": 28.32833,
+        "longitude": 97.53556,
+        "name": "Hkakabo Razi",
+        "countries": [
+            "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

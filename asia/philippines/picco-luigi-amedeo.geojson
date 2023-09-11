@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.86528,
+            45.82194
+        ]
+    },
+    "properties": {
+        "feet": 14632.5464,
+        "meters": 4460.0,
+        "latitude": 45.82194,
+        "longitude": 6.86528,
+        "name": "Picco Luigi Amedeo",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

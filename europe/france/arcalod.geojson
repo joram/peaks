@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.22833,
+            45.68167
+        ]
+    },
+    "properties": {
+        "feet": 7273.62228,
+        "meters": 2217.0,
+        "latitude": 45.68167,
+        "longitude": 6.22833,
+        "name": "Arcalod",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

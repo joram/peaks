@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.93222,
+            50.58056
+        ]
+    },
+    "properties": {
+        "feet": 7841.2076,
+        "meters": 2390.0,
+        "latitude": 50.58056,
+        "longitude": -122.93222,
+        "name": "Chipmunk Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

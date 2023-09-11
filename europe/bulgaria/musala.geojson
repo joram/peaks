@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 9596,
-    "meters": 2925,
-    "name": "Musala",
-    "regions": [
-      "Balkan Peninsula",
-      "Macedonia-Thrace"
-    ],
-    "countries": [
-      "Bulgaria"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.58667,
+            42.17972
+        ]
+    },
+    "properties": {
+        "feet": 9597.769336,
+        "meters": 2925.4,
+        "latitude": 42.17972,
+        "longitude": 23.58667,
+        "name": "Musala",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -111.6781,
-            35.3464
+            -111.677944,
+            35.346333
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 35.3464,
-        "longitude": -111.6781,
+        "feet": 12637.0,
+        "meters": 3851.757476743761,
+        "latitude": 35.346333,
+        "longitude": -111.677944,
         "name": "Humphreys Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Arizona"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

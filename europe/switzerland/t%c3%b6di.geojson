@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.91472,
+            46.81111
+        ]
+    },
+    "properties": {
+        "feet": 11853.67492,
+        "meters": 3613.0,
+        "latitude": 46.81111,
+        "longitude": 8.91472,
+        "name": "T%C3%B6di",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

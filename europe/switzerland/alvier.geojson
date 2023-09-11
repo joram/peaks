@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.414833,
+            47.10975
+        ]
+    },
+    "properties": {
+        "feet": 7687.0081199999995,
+        "meters": 2343.0,
+        "latitude": 47.10975,
+        "longitude": 9.414833,
+        "name": "Alvier",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

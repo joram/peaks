@@ -215,8 +215,15 @@ class Peak:
 
         if self.location is None:
             return None
+
+        location = self.location
+
+        bad_strings = [", Plurinational State of"]
+        for bad_string in bad_strings:
+            location = location.replace(bad_string, "")
+
         for splitter in [",", " ", "and"]:
-            for possible_country_name in self.location.split(splitter):
+            for possible_country_name in location.split(splitter):
                 possible_country_name = pull_country(possible_country_name)
                 if possible_country_name is not None:
                     return possible_country_name

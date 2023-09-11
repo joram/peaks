@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.22306,
+            50.60306
+        ]
+    },
+    "properties": {
+        "feet": 9990.157799999999,
+        "meters": 3045.0,
+        "latitude": 50.60306,
+        "longitude": -115.22306,
+        "name": "Mount Lyautey",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

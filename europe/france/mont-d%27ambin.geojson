@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.88417,
+            45.15694
+        ]
+    },
+    "properties": {
+        "feet": 11082.67752,
+        "meters": 3378.0,
+        "latitude": 45.15694,
+        "longitude": 6.88417,
+        "name": "Mont d%27Ambin",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      5.55,
-      44.8333
-    ]
-  },
-  "properties": {
-    "feet": 6842,
-    "meters": 2085,
-    "latitude": 44.8333,
-    "longitude": 5.55,
-    "name": "Mont Aiguille",
-    "regions": [
-      "Western Alps",
-      "Dauphine Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.5525,
+            44.84194
+        ]
+    },
+    "properties": {
+        "feet": 6847.11308,
+        "meters": 2087.0,
+        "latitude": 44.84194,
+        "longitude": 5.5525,
+        "name": "Mont Aiguille",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

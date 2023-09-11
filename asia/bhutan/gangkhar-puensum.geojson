@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            90.45417,
+            28.04833
+        ]
+    },
+    "properties": {
+        "feet": 24835.9588,
+        "meters": 7570.0,
+        "latitude": 28.04833,
+        "longitude": 90.45417,
+        "name": "Gangkhar Puensum",
+        "countries": [
+            "Bhutan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

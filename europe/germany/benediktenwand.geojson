@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46556,
+            47.65306
+        ]
+    },
+    "properties": {
+        "feet": 5900.0,
+        "meters": 1798.3199424537618,
+        "latitude": 47.65306,
+        "longitude": 11.46556,
+        "name": "Benediktenwand",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58833,
+            46.01667
+        ]
+    },
+    "properties": {
+        "feet": 6850.3939199999995,
+        "meters": 2088.0,
+        "latitude": 46.01667,
+        "longitude": 9.58833,
+        "name": "Monte Avaro",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

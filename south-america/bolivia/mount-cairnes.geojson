@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -138.27694,
+            60.86833
+        ]
+    },
+    "properties": {
+        "feet": 9219.1604,
+        "meters": 2810.0,
+        "latitude": 60.86833,
+        "longitude": -138.27694,
+        "name": "Mount Cairnes",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

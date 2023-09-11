@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.12611,
+            47.98056
+        ]
+    },
+    "properties": {
+        "feet": 4173.22848,
+        "meters": 1272.0,
+        "latitude": 47.98056,
+        "longitude": 7.12611,
+        "name": "Petit Ballon",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

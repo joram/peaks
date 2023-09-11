@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.64611,
+            46.23139
+        ]
+    },
+    "properties": {
+        "feet": 9924.541,
+        "meters": 3025.0,
+        "latitude": 46.23139,
+        "longitude": 7.64611,
+        "name": "Bella Tola",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

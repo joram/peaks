@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.56,
+            48.11139
+        ]
+    },
+    "properties": {
+        "feet": 6564.96084,
+        "meters": 2001.0,
+        "latitude": 48.11139,
+        "longitude": 24.56,
+        "name": "Rebra",
+        "countries": [
+            "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

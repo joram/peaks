@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.24278,
+            44.9625
+        ]
+    },
+    "properties": {
+        "feet": 10269.029199999999,
+        "meters": 3130.0,
+        "latitude": 44.9625,
+        "longitude": 6.24278,
+        "name": "Aiguille Dibona",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

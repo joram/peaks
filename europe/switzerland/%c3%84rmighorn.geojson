@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.713778,
+            46.541694
+        ]
+    },
+    "properties": {
+        "feet": 8996.06328,
+        "meters": 2742.0,
+        "latitude": 46.541694,
+        "longitude": 7.713778,
+        "name": "%C3%84rmighorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.38694,
+            49.6625
+        ]
+    },
+    "properties": {
+        "feet": 5790.6826,
+        "meters": 1765.0,
+        "latitude": 49.6625,
+        "longitude": -125.38694,
+        "name": "Castlecrag Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

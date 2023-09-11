@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.097639,
+            46.493833
+        ]
+    },
+    "properties": {
+        "feet": 12814.96104,
+        "meters": 3906.0,
+        "latitude": 46.493833,
+        "longitude": 8.097639,
+        "name": "Grosses Wannenhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

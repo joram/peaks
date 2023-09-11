@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            80.77389,
+            7.00083
+        ]
+    },
+    "properties": {
+        "feet": 8280.84016,
+        "meters": 2524.0,
+        "latitude": 7.00083,
+        "longitude": 80.77389,
+        "name": "Pidurutalagala",
+        "countries": [
+            "Sri Lanka"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

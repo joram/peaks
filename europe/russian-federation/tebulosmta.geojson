@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            45.3175,
+            42.57333
+        ]
+    },
+    "properties": {
+        "feet": 14740.81412,
+        "meters": 4493.0,
+        "latitude": 42.57333,
+        "longitude": 45.3175,
+        "name": "Tebulosmta",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

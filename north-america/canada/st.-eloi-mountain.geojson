@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.47833,
+            49.32667
+        ]
+    },
+    "properties": {
+        "feet": 8198.81916,
+        "meters": 2499.0,
+        "latitude": 49.32667,
+        "longitude": -114.47833,
+        "name": "St. Eloi Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

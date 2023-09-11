@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -154.1469,
-            61.8036
+            -154.14472,
+            61.80389
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.8036,
-        "longitude": -154.1469,
+        "feet": 9828.0,
+        "meters": 2995.574304141622,
+        "latitude": 61.80389,
+        "longitude": -154.14472,
         "name": "Mount Hesperus",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

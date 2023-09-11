@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.98583,
+            58.415
+        ]
+    },
+    "properties": {
+        "feet": 8963.25488,
+        "meters": 2732.0,
+        "latitude": 58.415,
+        "longitude": -124.98583,
+        "name": "The White Tower",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

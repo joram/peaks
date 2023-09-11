@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.1567111,
+            46.8960111
+        ]
+    },
+    "properties": {
+        "feet": 9133.85856,
+        "meters": 2784.0,
+        "latitude": 46.8960111,
+        "longitude": 13.1567111,
+        "name": "M%C3%B6lltaler Polinik",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

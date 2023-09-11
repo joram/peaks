@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.726056,
+            46.429667
+        ]
+    },
+    "properties": {
+        "feet": 10078.74048,
+        "meters": 3072.0,
+        "latitude": 46.429667,
+        "longitude": 8.726056,
+        "name": "Pizzo Campo Tencia",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

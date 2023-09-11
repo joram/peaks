@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.25,
+            47.05
+        ]
+    },
+    "properties": {
+        "feet": 10669.29168,
+        "meters": 3252.0,
+        "latitude": 47.05,
+        "longitude": 13.25,
+        "name": "Ankogel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

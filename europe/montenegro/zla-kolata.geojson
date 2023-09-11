@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.89722,
+            42.485
+        ]
+    },
+    "properties": {
+        "feet": 8313.64856,
+        "meters": 2534.0,
+        "latitude": 42.485,
+        "longitude": 19.89722,
+        "name": "Zla Kolata",
+        "countries": [
+            "Montenegro"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

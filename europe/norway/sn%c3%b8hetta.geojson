@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26769,
+            62.31984
+        ]
+    },
+    "properties": {
+        "feet": 7500.00024,
+        "meters": 2286.0,
+        "latitude": 62.31984,
+        "longitude": 9.26769,
+        "name": "Sn%C3%B8hetta",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

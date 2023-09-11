@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            87.81889,
+            49.14583
+        ]
+    },
+    "properties": {
+        "feet": 14291.33904,
+        "meters": 4356.0,
+        "latitude": 49.14583,
+        "longitude": 87.81889,
+        "name": "Kh%C3%BCiten Peak",
+        "countries": [
+            "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

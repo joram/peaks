@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.5275,
+            46.97806
+        ]
+    },
+    "properties": {
+        "feet": 3106.95548,
+        "meters": 947.0,
+        "latitude": 46.97806,
+        "longitude": 7.5275,
+        "name": "Bantiger",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

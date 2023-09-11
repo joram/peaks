@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.00139,
+            48.02111
+        ]
+    },
+    "properties": {
+        "feet": 4429.134,
+        "meters": 1350.0,
+        "latitude": 48.02111,
+        "longitude": 7.00139,
+        "name": "Kastelberg",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

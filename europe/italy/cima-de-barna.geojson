@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.26222,
+            46.422611
+        ]
+    },
+    "properties": {
+        "feet": 9389.76408,
+        "meters": 2862.0,
+        "latitude": 46.422611,
+        "longitude": 9.26222,
+        "name": "Cima de Barna",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

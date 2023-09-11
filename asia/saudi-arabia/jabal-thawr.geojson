@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.85083,
+            21.3775
+        ]
+    },
+    "properties": {
+        "feet": 2460.63,
+        "meters": 750.0,
+        "latitude": 21.3775,
+        "longitude": 39.85083,
+        "name": "Jabal Thawr",
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            47.85833,
+            41.22444
+        ]
+    },
+    "properties": {
+        "feet": 14652.23144,
+        "meters": 4466.0,
+        "latitude": 41.22444,
+        "longitude": 47.85833,
+        "name": "Mount Bazard%C3%BCz%C3%BC",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -137.17194,
+            58.66278
+        ]
+    },
+    "properties": {
+        "feet": 12726.0,
+        "meters": 3878.8846758756904,
+        "latitude": 58.66278,
+        "longitude": -137.17194,
+        "name": "Mount Crillon",
+        "countries": [
+            "Somalia"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

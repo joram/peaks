@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.03675,
+            45.950306
+        ]
+    },
+    "properties": {
+        "feet": 12585.302239999999,
+        "meters": 3836.0,
+        "latitude": 45.950306,
+        "longitude": 7.03675,
+        "name": "Tour Noir",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

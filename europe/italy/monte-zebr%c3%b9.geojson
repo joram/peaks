@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.54806,
+            46.49333
+        ]
+    },
+    "properties": {
+        "feet": 12253.9374,
+        "meters": 3735.0,
+        "latitude": 46.49333,
+        "longitude": 10.54806,
+        "name": "Monte Zebr%C3%B9",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

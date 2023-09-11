@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.019972,
+            46.478
+        ]
+    },
+    "properties": {
+        "feet": 12503.28124,
+        "meters": 3811.0,
+        "latitude": 46.478,
+        "longitude": 8.019972,
+        "name": "Dreieckhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

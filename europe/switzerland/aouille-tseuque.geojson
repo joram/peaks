@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.443139,
+            45.930583
+        ]
+    },
+    "properties": {
+        "feet": 11660.10536,
+        "meters": 3554.0,
+        "latitude": 45.930583,
+        "longitude": 7.443139,
+        "name": "Aouille Tseuque",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

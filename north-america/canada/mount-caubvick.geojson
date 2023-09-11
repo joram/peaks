@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -63.7097,
-            58.8878
+            -63.7158334,
+            58.8836111
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 58.8878,
-        "longitude": -63.7097,
+        "feet": 5419.94768,
+        "meters": 1652.0,
+        "latitude": 58.8836111,
+        "longitude": -63.7158334,
         "name": "Mount Caubvick",
-        "regions": [],
         "countries": [
             "Canada"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

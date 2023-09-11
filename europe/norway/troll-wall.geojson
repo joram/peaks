@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7288,
+            62.4824
+        ]
+    },
+    "properties": {
+        "feet": 5577.428,
+        "meters": 1700.0,
+        "latitude": 62.4824,
+        "longitude": 7.7288,
+        "name": "Troll Wall",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

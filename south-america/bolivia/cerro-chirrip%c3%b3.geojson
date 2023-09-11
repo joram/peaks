@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.488667,
+            9.484083
+        ]
+    },
+    "properties": {
+        "feet": 12536.08964,
+        "meters": 3821.0,
+        "latitude": 9.484083,
+        "longitude": -83.488667,
+        "name": "Cerro Chirrip%C3%B3",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.96,
+            45.86194
+        ]
+    },
+    "properties": {
+        "feet": 13126.64084,
+        "meters": 4001.0,
+        "latitude": 45.86194,
+        "longitude": 6.96,
+        "name": "Aiguille de Rochefort",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

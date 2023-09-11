@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.20833,
+            49.65278
+        ]
+    },
+    "properties": {
+        "feet": 800.0,
+        "meters": 243.83999219712024,
+        "latitude": 49.65278,
+        "longitude": -123.20833,
+        "name": "Watts Point volcanic centre",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

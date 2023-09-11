@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.4,
+            39.65
+        ]
+    },
+    "properties": {
+        "feet": 12877.297,
+        "meters": 3925.0,
+        "latitude": 39.65,
+        "longitude": 44.4,
+        "name": "Little Ararat",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "A\u011fr\u0131 Province"
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            33.16139,
+            35.31944
+        ]
+    },
+    "properties": {
+        "feet": 3359.58016,
+        "meters": 1024.0,
+        "latitude": 35.31944,
+        "longitude": 33.16139,
+        "name": "Mount Selvili",
+        "countries": [
+            "Cyprus"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

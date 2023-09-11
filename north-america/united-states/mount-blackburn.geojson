@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -143.4031,
-            61.7306
+            -143.43306,
+            61.73167
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.7306,
-        "longitude": -143.4031,
+        "feet": 16390.0,
+        "meters": 4995.6718401385015,
+        "latitude": 61.73167,
+        "longitude": -143.43306,
         "name": "Mount Blackburn",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

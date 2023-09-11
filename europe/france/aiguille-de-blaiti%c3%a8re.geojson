@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.91306,
+            45.89917
+        ]
+    },
+    "properties": {
+        "feet": 11555.11848,
+        "meters": 3522.0,
+        "latitude": 45.89917,
+        "longitude": 6.91306,
+        "name": "Aiguille de Blaiti%C3%A8re",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

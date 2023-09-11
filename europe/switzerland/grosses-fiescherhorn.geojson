@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.06111,
+            46.55139
+        ]
+    },
+    "properties": {
+        "feet": 13284.12116,
+        "meters": 4049.0,
+        "latitude": 46.55139,
+        "longitude": 8.06111,
+        "name": "Grosses Fiescherhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

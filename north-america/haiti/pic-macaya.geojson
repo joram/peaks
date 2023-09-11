@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -74.0242,
-            18.3822
+            -74.025,
+            18.3825
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 18.3822,
-        "longitude": -74.0242,
+        "feet": 7700.13148,
+        "meters": 2347.0,
+        "latitude": 18.3825,
+        "longitude": -74.025,
         "name": "Pic Macaya",
-        "regions": [],
         "countries": [
             "Haiti"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

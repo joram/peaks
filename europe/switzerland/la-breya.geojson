@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.10333,
+            46.02167
+        ]
+    },
+    "properties": {
+        "feet": 7788.7141599999995,
+        "meters": 2374.0,
+        "latitude": 46.02167,
+        "longitude": 7.10333,
+        "name": "La Breya",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

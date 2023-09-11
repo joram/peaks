@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.817222,
+            45.414167
+        ]
+    },
+    "properties": {
+        "feet": 11223.75364,
+        "meters": 3421.0,
+        "latitude": 45.414167,
+        "longitude": 6.817222,
+        "name": "Pointes et aiguille de l%27%C3%89p%C3%A9na",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

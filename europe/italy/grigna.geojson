@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3875,
+            45.95333
+        ]
+    },
+    "properties": {
+        "feet": 7906.8243999999995,
+        "meters": 2410.0,
+        "latitude": 45.95333,
+        "longitude": 9.3875,
+        "name": "Grigna",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

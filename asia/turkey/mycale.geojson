@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.15056,
+            37.66111
+        ]
+    },
+    "properties": {
+        "feet": 4058.39908,
+        "meters": 1237.0,
+        "latitude": 37.66111,
+        "longitude": 27.15056,
+        "name": "Mycale",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

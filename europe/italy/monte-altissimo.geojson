@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.17361,
+            45.91139
+        ]
+    },
+    "properties": {
+        "feet": 5587.27052,
+        "meters": 1703.0,
+        "latitude": 45.91139,
+        "longitude": 10.17361,
+        "name": "Monte Altissimo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

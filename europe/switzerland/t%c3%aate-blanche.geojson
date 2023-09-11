@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.574861,
+            45.987417
+        ]
+    },
+    "properties": {
+        "feet": 12171.9164,
+        "meters": 3710.0,
+        "latitude": 45.987417,
+        "longitude": 7.574861,
+        "name": "T%C3%AAte Blanche",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

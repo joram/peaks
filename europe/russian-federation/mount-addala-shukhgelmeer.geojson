@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            46.25,
+            42.33833
+        ]
+    },
+    "properties": {
+        "feet": 13622.04768,
+        "meters": 4152.0,
+        "latitude": 42.33833,
+        "longitude": 46.25,
+        "name": "Mount Addala-Shukhgelmeer",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

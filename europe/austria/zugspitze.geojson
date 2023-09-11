@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.98528,
+            47.42111
+        ]
+    },
+    "properties": {
+        "feet": 9717.84808,
+        "meters": 2962.0,
+        "latitude": 47.42111,
+        "longitude": 10.98528,
+        "name": "Zugspitze",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.090083,
+            46.787639
+        ]
+    },
+    "properties": {
+        "feet": 7234.2522,
+        "meters": 2205.0,
+        "latitude": 46.787639,
+        "longitude": 8.090083,
+        "name": "H%C3%B6ch Gumme",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

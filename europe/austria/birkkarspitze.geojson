@@ -1,24 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 9019,
-    "meters": 2749,
-    "name": "Birkkarspitze",
-    "regions": [
-      "Eastern Alps"
-    ],
-    "countries": [
-      "Austria"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.43778,
+            47.41111
+        ]
+    },
+    "properties": {
+        "feet": 9019.02916,
+        "meters": 2749.0,
+        "latitude": 47.41111,
+        "longitude": 11.43778,
+        "name": "Birkkarspitze",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

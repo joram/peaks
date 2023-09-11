@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            25.626056,
+            54.527083
+        ]
+    },
+    "properties": {
+        "feet": 964.0420255999999,
+        "meters": 293.84,
+        "latitude": 54.527083,
+        "longitude": 25.626056,
+        "name": "Auk%C5%A1tojas Hill",
+        "countries": [
+            "Lithuania"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

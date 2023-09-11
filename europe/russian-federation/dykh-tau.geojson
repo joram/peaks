@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.133,
+            43.05
+        ]
+    },
+    "properties": {
+        "feet": 17076.7722,
+        "meters": 5205.0,
+        "latitude": 43.05,
+        "longitude": 43.133,
+        "name": "Dykh-Tau",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

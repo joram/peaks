@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48778,
+            46.49778
+        ]
+    },
+    "properties": {
+        "feet": 9061.68008,
+        "meters": 2762.0,
+        "latitude": 46.49778,
+        "longitude": 7.48778,
+        "name": "Albristhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

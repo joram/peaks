@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.0911,
+            69.7092
+        ]
+    },
+    "properties": {
+        "feet": 5328.08416,
+        "meters": 1624.0,
+        "latitude": 69.7092,
+        "longitude": 20.0911,
+        "name": "Store Lenangstind",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

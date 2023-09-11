@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.43389,
+            46.05528
+        ]
+    },
+    "properties": {
+        "feet": 11961.94264,
+        "meters": 3646.0,
+        "latitude": 46.05528,
+        "longitude": 7.43389,
+        "name": "Aiguilles Rouges d%27Arolla",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

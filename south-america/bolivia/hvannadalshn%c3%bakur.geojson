@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -16.67472,
+            64.01583
+        ]
+    },
+    "properties": {
+        "feet": 6920.0,
+        "meters": 2109.21593250509,
+        "latitude": 64.01583,
+        "longitude": -16.67472,
+        "name": "Hvannadalshn%C3%BAkur",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

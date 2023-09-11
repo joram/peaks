@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.16111,
+            47.86111
+        ]
+    },
+    "properties": {
+        "feet": 3136.48304,
+        "meters": 956.0,
+        "latitude": 47.86111,
+        "longitude": 7.16111,
+        "name": "Hartmannswillerkopf",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

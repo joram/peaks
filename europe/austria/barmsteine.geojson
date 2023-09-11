@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.07194,
+            47.68667
+        ]
+    },
+    "properties": {
+        "feet": 2791.99484,
+        "meters": 851.0,
+        "latitude": 47.68667,
+        "longitude": 13.07194,
+        "name": "Barmsteine",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

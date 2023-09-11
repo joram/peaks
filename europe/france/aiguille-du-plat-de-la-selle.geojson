@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.22167,
+            44.96472
+        ]
+    },
+    "properties": {
+        "feet": 11797.90064,
+        "meters": 3596.0,
+        "latitude": 44.96472,
+        "longitude": 6.22167,
+        "name": "Aiguille du Plat de la Selle",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

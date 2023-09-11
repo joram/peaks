@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93222,
+            46.37361
+        ]
+    },
+    "properties": {
+        "feet": 12867.45448,
+        "meters": 3922.0,
+        "latitude": 46.37361,
+        "longitude": 9.93222,
+        "name": "Bellavista",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.01694,
+            47.52056
+        ]
+    },
+    "properties": {
+        "feet": 7713.25484,
+        "meters": 2351.0,
+        "latitude": 47.52056,
+        "longitude": 14.01694,
+        "name": "Grimming",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -108.1083,
-            37.8536
+            -121.4775165,
+            48.9953725
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 37.8536,
-        "longitude": -108.1083,
+        "feet": 7464.0,
+        "meters": 2275.027127199132,
+        "latitude": 48.9953725,
+        "longitude": -121.4775165,
         "name": "Middle Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Colorado"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.194917,
+            46.548111
+        ]
+    },
+    "properties": {
+        "feet": 7716.53568,
+        "meters": 2352.0,
+        "latitude": 46.548111,
+        "longitude": 12.194917,
+        "name": "Mount Faloria",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

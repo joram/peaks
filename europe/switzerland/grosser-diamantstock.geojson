@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 10374,
-    "meters": 3162,
-    "name": "Grosser Diamantstock",
-    "regions": [
-      "Northern Alps",
-      "Berner Oberland"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.243278,
+            46.592417
+        ]
+    },
+    "properties": {
+        "feet": 10374.01608,
+        "meters": 3162.0,
+        "latitude": 46.592417,
+        "longitude": 8.243278,
+        "name": "Grosser Diamantstock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

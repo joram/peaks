@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.81472,
+            47.70333
+        ]
+    },
+    "properties": {
+        "feet": 4750.65632,
+        "meters": 1448.0,
+        "latitude": 47.70333,
+        "longitude": 11.81472,
+        "name": "Baumgartenschneid",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

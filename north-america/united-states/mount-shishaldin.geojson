@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -163.9675,
+            54.75583
+        ]
+    },
+    "properties": {
+        "feet": 9373.0,
+        "meters": 2856.89030857951,
+        "latitude": 54.75583,
+        "longitude": -163.9675,
+        "name": "Mount Shishaldin",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.956528,
+            46.17528
+        ]
+    },
+    "properties": {
+        "feet": 10324.80348,
+        "meters": 3147.0,
+        "latitude": 46.17528,
+        "longitude": 7.956528,
+        "name": "%C3%84usser Rothorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

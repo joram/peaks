@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.69975,
+            46.52167
+        ]
+    },
+    "properties": {
+        "feet": 10879.26544,
+        "meters": 3316.0,
+        "latitude": 46.52167,
+        "longitude": 9.69975,
+        "name": "Tschima da Flix",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.98389,
+            21.35472
+        ]
+    },
+    "properties": {
+        "feet": 1489.50136,
+        "meters": 454.0,
+        "latitude": 21.35472,
+        "longitude": 39.98389,
+        "name": "Mount Arafat",
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

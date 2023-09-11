@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -123.7108,
-            47.8014
+            -123.710837242,
+            47.801298806
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 47.8014,
-        "longitude": -123.7108,
+        "feet": 7980.0,
+        "meters": 2432.3039221662743,
+        "latitude": 47.801298806,
+        "longitude": -123.710837242,
         "name": "Mount Olympus",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Washington"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

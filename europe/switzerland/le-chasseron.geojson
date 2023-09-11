@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.538472,
+            46.85167
+        ]
+    },
+    "properties": {
+        "feet": 5272.30988,
+        "meters": 1607.0,
+        "latitude": 46.85167,
+        "longitude": 6.538472,
+        "name": "Le Chasseron",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

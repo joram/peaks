@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            121.52139,
+            25.17611
+        ]
+    },
+    "properties": {
+        "feet": 3582.67728,
+        "meters": 1092.0,
+        "latitude": 25.17611,
+        "longitude": 121.52139,
+        "name": "Datun Mountain",
+        "countries": [
+            "New Caledonia"
+        ],
+        "continent": "Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

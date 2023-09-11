@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.31389,
+            47.37611
+        ]
+    },
+    "properties": {
+        "feet": 5269.02904,
+        "meters": 1606.0,
+        "latitude": 47.37611,
+        "longitude": 10.31389,
+        "name": "%C3%84lpelekopf",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

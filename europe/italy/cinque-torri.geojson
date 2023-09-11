@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.052065,
+            46.51016
+        ]
+    },
+    "properties": {
+        "feet": 7746.0632399999995,
+        "meters": 2361.0,
+        "latitude": 46.51016,
+        "longitude": 12.052065,
+        "name": "Cinque Torri",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

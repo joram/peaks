@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.4044908,
+            48.437458
+        ]
+    },
+    "properties": {
+        "feet": 2506.56176,
+        "meters": 764.0,
+        "latitude": 48.437458,
+        "longitude": 7.4044908,
+        "name": "Mont Sainte-Odile",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

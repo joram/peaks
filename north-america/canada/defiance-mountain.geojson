@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.31083,
+            52.37083
+        ]
+    },
+    "properties": {
+        "feet": 8755.905792000001,
+        "meters": 2668.8,
+        "latitude": 52.37083,
+        "longitude": -126.31083,
+        "name": "Defiance Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

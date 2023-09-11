@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.53611,
+            46.35694
+        ]
+    },
+    "properties": {
+        "feet": 8392.38872,
+        "meters": 2558.0,
+        "latitude": 46.35694,
+        "longitude": 14.53611,
+        "name": "Grintovec",
+        "countries": [
+            "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

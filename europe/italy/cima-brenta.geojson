@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.90056,
+            46.15556
+        ]
+    },
+    "properties": {
+        "feet": 10334.646,
+        "meters": 3150.0,
+        "latitude": 46.15556,
+        "longitude": 10.90056,
+        "name": "Cima Brenta",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.56917,
+            47.15194
+        ]
+    },
+    "properties": {
+        "feet": 11197.50692,
+        "meters": 3413.0,
+        "latitude": 47.15194,
+        "longitude": 12.56917,
+        "name": "Hinterer Bratschenkopf",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -68.921,
+            45.904
+        ]
+    },
+    "properties": {
+        "feet": 5269.0,
+        "meters": 1605.9911486082833,
+        "latitude": 45.904,
+        "longitude": -68.921,
+        "name": "Mount Katahdin",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

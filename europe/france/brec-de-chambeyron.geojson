@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.85333,
+            44.52806
+        ]
+    },
+    "properties": {
+        "feet": 11118.76676,
+        "meters": 3389.0,
+        "latitude": 44.52806,
+        "longitude": 6.85333,
+        "name": "Brec de Chambeyron",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

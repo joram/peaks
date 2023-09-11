@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.51833,
+            42.69917
+        ]
+    },
+    "properties": {
+        "feet": 16581.36536,
+        "meters": 5054.0,
+        "latitude": 42.69917,
+        "longitude": 44.51833,
+        "name": "Mount Kazbek",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

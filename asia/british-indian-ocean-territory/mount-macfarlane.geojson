@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.62528,
+            49.05278
+        ]
+    },
+    "properties": {
+        "feet": 6856.9556,
+        "meters": 2090.0,
+        "latitude": 49.05278,
+        "longitude": -121.62528,
+        "name": "Mount MacFarlane",
+        "countries": [
+            "British Indian Ocean Territory"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

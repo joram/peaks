@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86667,
+            45.93694
+        ]
+    },
+    "properties": {
+        "feet": 15203.41256,
+        "meters": 4634.0,
+        "latitude": 45.93694,
+        "longitude": 7.86667,
+        "name": "Monte Rosa",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

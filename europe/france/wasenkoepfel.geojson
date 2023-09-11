@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.59889,
+            48.97477
+        ]
+    },
+    "properties": {
+        "feet": 1725.72184,
+        "meters": 526.0,
+        "latitude": 48.97477,
+        "longitude": 7.59889,
+        "name": "Wasenkoepfel",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

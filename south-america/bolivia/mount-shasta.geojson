@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -122.194888358,
+            41.409196033
+        ]
+    },
+    "properties": {
+        "feet": 14179.0,
+        "meters": 4321.75906170371,
+        "latitude": 41.409196033,
+        "longitude": -122.194888358,
+        "name": "Mount Shasta",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

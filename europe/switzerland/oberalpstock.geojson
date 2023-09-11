@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.769472,
+            46.742528
+        ]
+    },
+    "properties": {
+        "feet": 10918.63552,
+        "meters": 3328.0,
+        "latitude": 46.742528,
+        "longitude": 8.769472,
+        "name": "Oberalpstock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

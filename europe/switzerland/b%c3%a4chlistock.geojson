@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.23972,
+            46.58639
+        ]
+    },
+    "properties": {
+        "feet": 10652.88748,
+        "meters": 3247.0,
+        "latitude": 46.58639,
+        "longitude": 8.23972,
+        "name": "B%C3%A4chlistock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

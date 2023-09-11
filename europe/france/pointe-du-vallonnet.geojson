@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.76083,
+            45.41722
+        ]
+    },
+    "properties": {
+        "feet": 11062.99248,
+        "meters": 3372.0,
+        "latitude": 45.41722,
+        "longitude": 6.76083,
+        "name": "Pointe du Vallonnet",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

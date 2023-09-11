@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.613972,
+            46.737889
+        ]
+    },
+    "properties": {
+        "feet": 9776.9032,
+        "meters": 2980.0,
+        "latitude": 46.737889,
+        "longitude": 9.613972,
+        "name": "Aroser Rothorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

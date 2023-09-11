@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.152194,
+            25.944194
+        ]
+    },
+    "properties": {
+        "feet": 5547.90044,
+        "meters": 1691.0,
+        "latitude": 25.944194,
+        "longitude": 56.152194,
+        "name": "Jabal ar Rahrah",
+        "countries": [
+            "United Arab Emirates"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

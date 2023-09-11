@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.92528,
+            27.98806
+        ]
+    },
+    "properties": {
+        "feet": 29031.6938424,
+        "meters": 8848.86,
+        "latitude": 27.98806,
+        "longitude": 86.92528,
+        "name": "Mount Everest",
+        "countries": [
+            "China"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.134028,
+            49.164028
+        ]
+    },
+    "properties": {
+        "feet": 8708.661696000001,
+        "meters": 2654.4,
+        "latitude": 49.164028,
+        "longitude": 20.134028,
+        "name": "Gerlachovsk%C3%BD %C5%A1t%C3%ADt",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

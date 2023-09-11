@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.375,
+            30.99083
+        ]
+    },
+    "properties": {
+        "feet": 10157.48064,
+        "meters": 3096.0,
+        "latitude": 30.99083,
+        "longitude": -115.375,
+        "name": "Picacho del Diablo",
+        "countries": [
+            "Sierra Leone"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

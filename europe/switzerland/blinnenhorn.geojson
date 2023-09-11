@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.308028,
+            46.425944
+        ]
+    },
+    "properties": {
+        "feet": 11069.55416,
+        "meters": 3374.0,
+        "latitude": 46.425944,
+        "longitude": 8.308028,
+        "name": "Blinnenhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.82,
+            46.43
+        ]
+    },
+    "properties": {
+        "feet": 8989.5016,
+        "meters": 2740.0,
+        "latitude": 46.43,
+        "longitude": 13.82,
+        "name": "%C5%A0krlatica",
+        "countries": [
+            "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

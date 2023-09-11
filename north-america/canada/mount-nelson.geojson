@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.46944,
-            52.34611
+            -116.35167,
+            50.46028
         ]
     },
     "properties": {
-        "feet": 10334.646,
-        "meters": 3150.0,
-        "latitude": 52.34611,
-        "longitude": -117.46944,
+        "feet": 10869.422919999999,
+        "meters": 3313.0,
+        "latitude": 50.46028,
+        "longitude": -116.35167,
         "name": "Mount Nelson",
         "countries": [
             "Canada"

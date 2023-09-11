@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.57611,
+            46.277444
+        ]
+    },
+    "properties": {
+        "feet": 7421.26008,
+        "meters": 2262.0,
+        "latitude": 46.277444,
+        "longitude": 8.57611,
+        "name": "Pizzo Alzasca",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

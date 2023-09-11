@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      86.788816,
-      27.730793
-    ]
-  },
-  "properties": {
-    "feet": 20888,
-    "meters": 6367,
-    "latitude": 27.730793,
-    "longitude": 86.788816,
-    "name": "Kusum Kangguru",
-    "regions": [
-      "Himalaya ",
-      "Central Nepal Himalaya"
-    ],
-    "countries": [
-      "Nepal"
-    ],
-    "continent": "Asia",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.79083,
+            27.73056
+        ]
+    },
+    "properties": {
+        "feet": 20889.10828,
+        "meters": 6367.0,
+        "latitude": 27.73056,
+        "longitude": 86.79083,
+        "name": "Kusum Kangguru",
+        "countries": [
+            "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

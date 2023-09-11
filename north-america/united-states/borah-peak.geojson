@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -113.7811,
-            44.1375
+            -113.78110123,
+            44.1373891
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.1375,
-        "longitude": -113.7811,
+        "feet": 12662.0,
+        "meters": 3859.3774764999207,
+        "latitude": 44.1373891,
+        "longitude": -113.78110123,
         "name": "Borah Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Idaho"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

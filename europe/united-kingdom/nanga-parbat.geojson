@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            74.58917,
+            35.2375
+        ]
+    },
+    "properties": {
+        "feet": 26660.10584,
+        "meters": 8126.0,
+        "latitude": 35.2375,
+        "longitude": 74.58917,
+        "name": "Nanga Parbat",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

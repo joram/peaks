@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12451,
-    "meters": 3795,
-    "name": "Balfrin",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.88028,
+            46.135083
+        ]
+    },
+    "properties": {
+        "feet": 12454.06864,
+        "meters": 3796.0,
+        "latitude": 46.135083,
+        "longitude": 7.88028,
+        "name": "Balfrin",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

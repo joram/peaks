@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -128.35028,
+            52.35472
+        ]
+    },
+    "properties": {
+        "feet": 1099.0814,
+        "meters": 335.0,
+        "latitude": 52.35472,
+        "longitude": -128.35028,
+        "name": "Milbanke Sound Group",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

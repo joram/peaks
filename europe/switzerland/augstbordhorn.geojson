@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.79528,
+            46.235083
+        ]
+    },
+    "properties": {
+        "feet": 9747.37564,
+        "meters": 2971.0,
+        "latitude": 46.235083,
+        "longitude": 7.79528,
+        "name": "Augstbordhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

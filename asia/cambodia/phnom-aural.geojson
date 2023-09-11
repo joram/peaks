@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            104.1667,
+            12.0333
+        ]
+    },
+    "properties": {
+        "feet": 5948.16292,
+        "meters": 1813.0,
+        "latitude": 12.0333,
+        "longitude": 104.1667,
+        "name": "Phnom Aural",
+        "countries": [
+            "Cambodia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9657,
+            23.4708
+        ]
+    },
+    "properties": {
+        "feet": 12693.56996,
+        "meters": 3869.0,
+        "latitude": 23.4708,
+        "longitude": 120.9657,
+        "name": "Yushan East Peak",
+        "countries": [
+            "Taiwan, Province of China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

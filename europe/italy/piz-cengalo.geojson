@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.602056,
+            46.29475
+        ]
+    },
+    "properties": {
+        "feet": 11053.14996,
+        "meters": 3369.0,
+        "latitude": 46.29475,
+        "longitude": 9.602056,
+        "name": "Piz Cengalo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

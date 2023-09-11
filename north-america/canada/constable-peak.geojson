@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.8403,
+            58.3611
+        ]
+    },
+    "properties": {
+        "feet": 9265.09216,
+        "meters": 2824.0,
+        "latitude": 58.3611,
+        "longitude": -124.8403,
+        "name": "Constable Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

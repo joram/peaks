@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.31248,
+            61.63644
+        ]
+    },
+    "properties": {
+        "feet": 8100.39396,
+        "meters": 2469.0,
+        "latitude": 61.63644,
+        "longitude": 8.31248,
+        "name": "Galdh%C3%B8piggen",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

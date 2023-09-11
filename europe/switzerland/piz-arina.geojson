@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.37056,
+            46.8675
+        ]
+    },
+    "properties": {
+        "feet": 9278.21552,
+        "meters": 2828.0,
+        "latitude": 46.8675,
+        "longitude": 10.37056,
+        "name": "Piz Arina",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

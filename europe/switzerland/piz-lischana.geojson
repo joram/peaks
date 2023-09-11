@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.344861,
+            46.769611
+        ]
+    },
+    "properties": {
+        "feet": 10187.0082,
+        "meters": 3105.0,
+        "latitude": 46.769611,
+        "longitude": 10.344861,
+        "name": "Piz Lischana",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

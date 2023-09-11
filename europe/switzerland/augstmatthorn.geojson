@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.928694,
+            46.742278
+        ]
+    },
+    "properties": {
+        "feet": 7011.1550799999995,
+        "meters": 2137.0,
+        "latitude": 46.742278,
+        "longitude": 7.928694,
+        "name": "Augstmatthorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

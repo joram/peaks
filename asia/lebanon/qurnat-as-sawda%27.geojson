@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.11667,
+            34.3
+        ]
+    },
+    "properties": {
+        "feet": 10131.23392,
+        "meters": 3088.0,
+        "latitude": 34.3,
+        "longitude": 36.11667,
+        "name": "Qurnat as Sawda%27",
+        "countries": [
+            "Lebanon"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

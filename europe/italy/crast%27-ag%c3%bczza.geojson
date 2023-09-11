@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.90694,
+            46.38056
+        ]
+    },
+    "properties": {
+        "feet": 12644.35736,
+        "meters": 3854.0,
+        "latitude": 46.38056,
+        "longitude": 9.90694,
+        "name": "Crast%27 Ag%C3%BCzza",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

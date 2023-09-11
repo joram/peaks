@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -83.60222,
+            64.83028
+        ]
+    },
+    "properties": {
+        "feet": 2004.59324,
+        "meters": 611.0,
+        "latitude": 64.83028,
+        "longitude": -83.60222,
+        "name": "Mathiassen Mountain",
+        "countries": [
+            "Tanzania, United Republic of"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

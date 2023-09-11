@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.09975,
+            45.998528
+        ]
+    },
+    "properties": {
+        "feet": 8323.49108,
+        "meters": 2537.0,
+        "latitude": 45.998528,
+        "longitude": 7.09975,
+        "name": "Le Ch%C3%A2telet",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

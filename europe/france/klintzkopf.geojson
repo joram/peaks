@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.05611,
+            47.94944
+        ]
+    },
+    "properties": {
+        "feet": 4363.5172,
+        "meters": 1330.0,
+        "latitude": 47.94944,
+        "longitude": 7.05611,
+        "name": "Klintzkopf",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

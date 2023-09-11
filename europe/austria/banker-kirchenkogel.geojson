@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08083,
+            46.89917
+        ]
+    },
+    "properties": {
+        "feet": 10219.8166,
+        "meters": 3115.0,
+        "latitude": 46.89917,
+        "longitude": 11.08083,
+        "name": "Banker Kirchenkogel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

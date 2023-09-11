@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -28.39889,
+            38.46889
+        ]
+    },
+    "properties": {
+        "feet": 7713.25484,
+        "meters": 2351.0,
+        "latitude": 38.46889,
+        "longitude": -28.39889,
+        "name": "Mount Pico",
+        "countries": [
+            "Comoros"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

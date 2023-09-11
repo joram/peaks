@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.00306,
+            46.52972
+        ]
+    },
+    "properties": {
+        "feet": 9301.1814,
+        "meters": 2835.0,
+        "latitude": 46.52972,
+        "longitude": 12.00306,
+        "name": "Lagazuoi",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

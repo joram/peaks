@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.16472,
+            46.42778
+        ]
+    },
+    "properties": {
+        "feet": 8530.184,
+        "meters": 2600.0,
+        "latitude": 46.42778,
+        "longitude": 9.16472,
+        "name": "Piz d%27Arbeola",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

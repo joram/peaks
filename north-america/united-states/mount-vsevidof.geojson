@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -168.6939,
-            53.1256
+            -168.69,
+            53.1241667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 53.1256,
-        "longitude": -168.6939,
+        "feet": 7051.0,
+        "meters": 2149.1447312273685,
+        "latitude": 53.1241667,
+        "longitude": -168.69,
         "name": "Mount Vsevidof",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

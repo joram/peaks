@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.59583,
+            48.09167
+        ]
+    },
+    "properties": {
+        "feet": 6358.26792,
+        "meters": 1938.0,
+        "latitude": 48.09167,
+        "longitude": 24.59583,
+        "name": "Pip Ivan",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

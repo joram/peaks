@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.02611,
+            47.29083
+        ]
+    },
+    "properties": {
+        "feet": 4370.07888,
+        "meters": 1332.0,
+        "latitude": 47.29083,
+        "longitude": 9.02611,
+        "name": "Tweralpspitz",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

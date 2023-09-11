@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.30556,
+            44.17778
+        ]
+    },
+    "properties": {
+        "feet": 10816.92948,
+        "meters": 3297.0,
+        "latitude": 44.17778,
+        "longitude": 7.30556,
+        "name": "Monte Argentera",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

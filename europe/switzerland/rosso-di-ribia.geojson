@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.529972,
+            46.261083
+        ]
+    },
+    "properties": {
+        "feet": 8356.29948,
+        "meters": 2547.0,
+        "latitude": 46.261083,
+        "longitude": 8.529972,
+        "name": "Rosso di Ribia",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

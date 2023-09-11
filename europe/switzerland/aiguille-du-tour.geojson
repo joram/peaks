@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.009833,
+            45.994417
+        ]
+    },
+    "properties": {
+        "feet": 11614.1736,
+        "meters": 3540.0,
+        "latitude": 45.994417,
+        "longitude": 7.009833,
+        "name": "Aiguille du Tour",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

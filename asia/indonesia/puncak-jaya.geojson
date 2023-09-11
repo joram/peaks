@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            137.15833,
+            -4.07889
+        ]
+    },
+    "properties": {
+        "feet": 16023.62256,
+        "meters": 4884.0,
+        "latitude": -4.07889,
+        "longitude": 137.15833,
+        "name": "Puncak Jaya",
+        "countries": [
+            "Indonesia"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

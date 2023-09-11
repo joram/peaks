@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.50278,
+            45.96444
+        ]
+    },
+    "properties": {
+        "feet": 12191.60144,
+        "meters": 3716.0,
+        "latitude": 45.96444,
+        "longitude": 7.50278,
+        "name": "L%27Ev%C3%AAque",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

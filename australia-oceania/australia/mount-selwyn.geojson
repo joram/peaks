@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            146.89917,
+            -37.04389
+        ]
+    },
+    "properties": {
+        "feet": 4629.0,
+        "meters": 1410.9191548505871,
+        "latitude": -37.04389,
+        "longitude": 146.89917,
+        "name": "Mount Selwyn",
+        "countries": [
+            "Australia"
+        ],
+        "continent": "Oceania",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

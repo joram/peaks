@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.695568828,
+            36.271598156
+        ]
+    },
+    "properties": {
+        "feet": 11916.0,
+        "meters": 3631.9966837761062,
+        "latitude": 36.271598156,
+        "longitude": -115.695568828,
+        "name": "Mount Charleston",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

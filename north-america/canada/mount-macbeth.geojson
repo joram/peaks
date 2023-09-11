@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -122.79694,
-            50.03778
+            -116.76417,
+            50.38944
         ]
     },
     "properties": {
-        "feet": 8658.13676,
-        "meters": 2639.0,
-        "latitude": 50.03778,
-        "longitude": -122.79694,
+        "feet": 10036.08956,
+        "meters": 3059.0,
+        "latitude": 50.38944,
+        "longitude": -116.76417,
         "name": "Mount Macbeth",
         "countries": [
             "Canada"

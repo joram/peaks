@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.42639,
+            43.77528
+        ]
+    },
+    "properties": {
+        "feet": 3766.40432,
+        "meters": 1148.0,
+        "latitude": 43.77528,
+        "longitude": 7.42639,
+        "name": "Mont Agel",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

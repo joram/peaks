@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.472944,
+            46.531222
+        ]
+    },
+    "properties": {
+        "feet": 10045.93208,
+        "meters": 3062.0,
+        "latitude": 46.531222,
+        "longitude": 9.472944,
+        "name": "Piz Grisch",
+        "countries": [
+            "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

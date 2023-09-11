@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.0875,
+            42.08694
+        ]
+    },
+    "properties": {
+        "feet": 9169.9478,
+        "meters": 2795.0,
+        "latitude": 42.08694,
+        "longitude": 14.0875,
+        "name": "Maiella",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

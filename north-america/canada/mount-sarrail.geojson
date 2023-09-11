@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -115.167532,
-      50.58013
-    ]
-  },
-  "properties": {
-    "feet": 10411,
-    "meters": 3173,
-    "latitude": 50.58013,
-    "longitude": -115.167532,
-    "name": "Mount Sarrail",
-    "regions": [
-      "Rocky Mountains",
-      "Canadian Rockies"
-    ],
-    "countries": [
-      "Canada"
-    ],
-    "continent": "North America",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.16667,
+            50.58028
+        ]
+    },
+    "properties": {
+        "feet": 10400.2628,
+        "meters": 3170.0,
+        "latitude": 50.58028,
+        "longitude": -115.16667,
+        "name": "Mount Sarrail",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

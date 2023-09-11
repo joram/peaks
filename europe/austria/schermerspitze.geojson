@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.08444,
+            46.88778
+        ]
+    },
+    "properties": {
+        "feet": 10226.37828,
+        "meters": 3117.0,
+        "latitude": 46.88778,
+        "longitude": 11.08444,
+        "name": "Schermerspitze",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

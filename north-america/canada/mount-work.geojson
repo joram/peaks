@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.4802972,
+            48.5305667
+        ]
+    },
+    "properties": {
+        "feet": 1473.09716,
+        "meters": 449.0,
+        "latitude": 48.5305667,
+        "longitude": -123.4802972,
+        "name": "Mount Work",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

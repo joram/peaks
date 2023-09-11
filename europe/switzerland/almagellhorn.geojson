@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.99444,
+            46.08694
+        ]
+    },
+    "properties": {
+        "feet": 10915.35468,
+        "meters": 3327.0,
+        "latitude": 46.08694,
+        "longitude": 7.99444,
+        "name": "Almagellhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

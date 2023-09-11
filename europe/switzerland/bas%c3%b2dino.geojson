@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.468472,
+            46.411611
+        ]
+    },
+    "properties": {
+        "feet": 10738.18932,
+        "meters": 3273.0,
+        "latitude": 46.411611,
+        "longitude": 8.468472,
+        "name": "Bas%C3%B2dino",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

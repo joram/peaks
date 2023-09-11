@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.28361,
+            46.36361
+        ]
+    },
+    "properties": {
+        "feet": 9465.2234,
+        "meters": 2885.0,
+        "latitude": 46.36361,
+        "longitude": 8.28361,
+        "name": "Albrunhorn",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

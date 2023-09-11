@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.98611,
+            47.694028
+        ]
+    },
+    "properties": {
+        "feet": 6473.09732,
+        "meters": 1973.0,
+        "latitude": 47.694028,
+        "longitude": 12.98611,
+        "name": "Berchtesgadener Hochthron",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

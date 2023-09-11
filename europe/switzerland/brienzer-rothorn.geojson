@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.04694,
+            46.78694
+        ]
+    },
+    "properties": {
+        "feet": 7709.974,
+        "meters": 2350.0,
+        "latitude": 46.78694,
+        "longitude": 8.04694,
+        "name": "Brienzer Rothorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

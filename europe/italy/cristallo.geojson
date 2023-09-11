@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.183,
+            46.583
+        ]
+    },
+    "properties": {
+        "feet": 10567.58564,
+        "meters": 3221.0,
+        "latitude": 46.583,
+        "longitude": 12.183,
+        "name": "Cristallo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

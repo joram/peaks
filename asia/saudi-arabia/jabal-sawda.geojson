@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.368264,
+            18.266717
+        ]
+    },
+    "properties": {
+        "feet": 9891.7326,
+        "meters": 3015.0,
+        "latitude": 18.266717,
+        "longitude": 42.368264,
+        "name": "Jabal Sawda",
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

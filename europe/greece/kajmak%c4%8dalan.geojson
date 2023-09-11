@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.78917,
+            40.93111
+        ]
+    },
+    "properties": {
+        "feet": 8270.99764,
+        "meters": 2521.0,
+        "latitude": 40.93111,
+        "longitude": 21.78917,
+        "name": "Kajmak%C4%8Dalan",
+        "countries": [
+            "Greece"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.03083,
+            45.98806
+        ]
+    },
+    "properties": {
+        "feet": 7152.2312,
+        "meters": 2180.0,
+        "latitude": 45.98806,
+        "longitude": 11.03083,
+        "name": "Monte Bondone",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Lombardy"
+        ]
+    }
+}

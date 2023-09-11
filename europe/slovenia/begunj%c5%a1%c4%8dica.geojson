@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.229309833,
+            46.42141
+        ]
+    },
+    "properties": {
+        "feet": 6758.5304,
+        "meters": 2060.0,
+        "latitude": 46.42141,
+        "longitude": 14.229309833,
+        "name": "Begunj%C5%A1%C4%8Dica",
+        "countries": [
+            "Slovenia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

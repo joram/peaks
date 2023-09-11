@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.203611,
+            46.864444
+        ]
+    },
+    "properties": {
+        "feet": 10597.1132,
+        "meters": 3230.0,
+        "latitude": 46.864444,
+        "longitude": 10.203611,
+        "name": "Augstenberg",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

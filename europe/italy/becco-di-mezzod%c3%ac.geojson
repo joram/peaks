@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.08083,
+            46.46028
+        ]
+    },
+    "properties": {
+        "feet": 8540.02652,
+        "meters": 2603.0,
+        "latitude": 46.46028,
+        "longitude": 12.08083,
+        "name": "Becco di Mezzod%C3%AC",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

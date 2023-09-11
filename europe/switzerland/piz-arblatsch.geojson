@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.577,
+            46.5355
+        ]
+    },
+    "properties": {
+        "feet": 10508.53052,
+        "meters": 3203.0,
+        "latitude": 46.5355,
+        "longitude": 9.577,
+        "name": "Piz Arblatsch",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

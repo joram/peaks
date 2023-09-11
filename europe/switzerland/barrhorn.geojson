@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.733946,
-      46.155816
-    ]
-  },
-  "properties": {
-    "feet": 11844,
-    "meters": 3610,
-    "latitude": 46.155816,
-    "longitude": 7.733946,
-    "name": "Barrhorn",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.734028,
+            46.155861
+        ]
+    },
+    "properties": {
+        "feet": 11843.8324,
+        "meters": 3610.0,
+        "latitude": 46.155861,
+        "longitude": 7.734028,
+        "name": "Barrhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

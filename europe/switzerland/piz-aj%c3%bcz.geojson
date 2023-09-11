@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.35611,
+            46.78222
+        ]
+    },
+    "properties": {
+        "feet": 9146.98192,
+        "meters": 2788.0,
+        "latitude": 46.78222,
+        "longitude": 10.35611,
+        "name": "Piz Aj%C3%BCz",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

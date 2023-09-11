@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.9675,
+            45.86417
+        ]
+    },
+    "properties": {
+        "feet": 13172.5726,
+        "meters": 4015.0,
+        "latitude": 45.86417,
+        "longitude": 6.9675,
+        "name": "D%C3%B4me de Rochefort",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

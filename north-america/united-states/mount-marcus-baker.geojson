@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -147.7525,
-            61.4375
+            -147.7505556,
+            61.4377778
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.4375,
-        "longitude": -147.7525,
+        "feet": 13176.0,
+        "meters": 4016.0446714865707,
+        "latitude": 61.4377778,
+        "longitude": -147.7505556,
         "name": "Mount Marcus Baker",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.67083,
+            45.66611
+        ]
+    },
+    "properties": {
+        "feet": 9580.0528,
+        "meters": 2920.0,
+        "latitude": 45.66611,
+        "longitude": 6.67083,
+        "name": "Aiguille du Grand Fond",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

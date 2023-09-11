@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.88278,
+            45.82444
+        ]
+    },
+    "properties": {
+        "feet": 13490.81408,
+        "meters": 4112.0,
+        "latitude": 45.82444,
+        "longitude": 6.88278,
+        "name": "Aiguille Blanche",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

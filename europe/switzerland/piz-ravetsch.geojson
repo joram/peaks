@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.702944,
+            46.58425
+        ]
+    },
+    "properties": {
+        "feet": 9865.48588,
+        "meters": 3007.0,
+        "latitude": 46.58425,
+        "longitude": 8.702944,
+        "name": "Piz Ravetsch",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

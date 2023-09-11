@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.306611,
+            46.63111
+        ]
+    },
+    "properties": {
+        "feet": 10026.24704,
+        "meters": 3056.0,
+        "latitude": 46.63111,
+        "longitude": 9.306611,
+        "name": "Bruschghorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

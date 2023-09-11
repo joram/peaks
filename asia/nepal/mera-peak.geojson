@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 21246,
-    "meters": 6476,
-    "name": "Mera Peak",
-    "countries": [
-      "Nepal"
-    ],
-    "continent": "Asia",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.86833,
+            27.70917
+        ]
+    },
+    "properties": {
+        "feet": 21246.71984,
+        "meters": 6476.0,
+        "latitude": 27.70917,
+        "longitude": 86.86833,
+        "name": "Mera Peak",
+        "countries": [
+            "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

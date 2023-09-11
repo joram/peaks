@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.1,
+            46.483
+        ]
+    },
+    "properties": {
+        "feet": 8907.4806,
+        "meters": 2715.0,
+        "latitude": 46.483,
+        "longitude": 12.1,
+        "name": "Croda da Lago",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

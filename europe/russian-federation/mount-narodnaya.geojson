@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            60.117,
+            65.033
+        ]
+    },
+    "properties": {
+        "feet": 6213.91096,
+        "meters": 1894.0,
+        "latitude": 65.033,
+        "longitude": 60.117,
+        "name": "Mount Narodnaya",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

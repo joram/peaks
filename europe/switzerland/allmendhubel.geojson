@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.88778,
+            46.56417
+        ]
+    },
+    "properties": {
+        "feet": 6338.58288,
+        "meters": 1932.0,
+        "latitude": 46.56417,
+        "longitude": 7.88778,
+        "name": "Allmendhubel",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

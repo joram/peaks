@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.682167,
+            46.342111
+        ]
+    },
+    "properties": {
+        "feet": 10643.04496,
+        "meters": 3244.0,
+        "latitude": 46.342111,
+        "longitude": 9.682167,
+        "name": "Piz Bacun",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.06333,
+            47.71694
+        ]
+    },
+    "properties": {
+        "feet": 8251.3126,
+        "meters": 2515.0,
+        "latitude": 47.71694,
+        "longitude": 14.06333,
+        "name": "Gro%C3%9Fer Priel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

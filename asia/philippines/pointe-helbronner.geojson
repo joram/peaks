@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.93167,
+            45.84583
+        ]
+    },
+    "properties": {
+        "feet": 11358.26808,
+        "meters": 3462.0,
+        "latitude": 45.84583,
+        "longitude": 6.93167,
+        "name": "Pointe Helbronner",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

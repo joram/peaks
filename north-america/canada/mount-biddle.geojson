@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -116.307222,
+            51.323334
+        ]
+    },
+    "properties": {
+        "feet": 10892.3888,
+        "meters": 3320.0,
+        "latitude": 51.323334,
+        "longitude": -116.307222,
+        "name": "Mount Biddle",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

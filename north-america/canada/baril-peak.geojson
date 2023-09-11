@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -114.75639,
+            50.29944
+        ]
+    },
+    "properties": {
+        "feet": 9842.52,
+        "meters": 3000.0,
+        "latitude": 50.29944,
+        "longitude": -114.75639,
+        "name": "Baril Peak",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

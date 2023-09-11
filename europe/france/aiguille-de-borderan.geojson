@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.47778,
+            45.88639
+        ]
+    },
+    "properties": {
+        "feet": 8175.85328,
+        "meters": 2492.0,
+        "latitude": 45.88639,
+        "longitude": 6.47778,
+        "name": "Aiguille de Borderan",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

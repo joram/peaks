@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.056278,
+            45.990306
+        ]
+    },
+    "properties": {
+        "feet": 10971.12896,
+        "meters": 3344.0,
+        "latitude": 45.990306,
+        "longitude": 7.056278,
+        "name": "Le Portalet",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

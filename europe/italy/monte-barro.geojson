@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.37917,
+            45.8325
+        ]
+    },
+    "properties": {
+        "feet": 3024.93448,
+        "meters": 922.0,
+        "latitude": 45.8325,
+        "longitude": 9.37917,
+        "name": "Monte Barro",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.8633,
+            58.4147
+        ]
+    },
+    "properties": {
+        "feet": 7444.22596,
+        "meters": 2269.0,
+        "latitude": 58.4147,
+        "longitude": -124.8633,
+        "name": "Tower Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

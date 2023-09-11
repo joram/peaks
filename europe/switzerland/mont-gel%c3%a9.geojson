@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.36611,
+            45.90417
+        ]
+    },
+    "properties": {
+        "feet": 11541.99512,
+        "meters": 3518.0,
+        "latitude": 45.90417,
+        "longitude": 7.36611,
+        "name": "Mont Gel%C3%A9",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

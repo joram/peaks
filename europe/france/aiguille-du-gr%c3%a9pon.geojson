@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.91917,
+            45.9025
+        ]
+    },
+    "properties": {
+        "feet": 11423.88488,
+        "meters": 3482.0,
+        "latitude": 45.9025,
+        "longitude": 6.91917,
+        "name": "Aiguille du Gr%C3%A9pon",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

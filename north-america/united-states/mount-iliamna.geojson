@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -153.09111,
+            60.03167
+        ]
+    },
+    "properties": {
+        "feet": 10016.0,
+        "meters": 3052.8767023079454,
+        "latitude": 60.03167,
+        "longitude": -153.09111,
+        "name": "Mount Iliamna",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

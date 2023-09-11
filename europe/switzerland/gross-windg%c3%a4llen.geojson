@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.73222,
+            46.80722
+        ]
+    },
+    "properties": {
+        "feet": 10456.03708,
+        "meters": 3187.0,
+        "latitude": 46.80722,
+        "longitude": 8.73222,
+        "name": "Gross Windg%C3%A4llen",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

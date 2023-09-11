@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.048028,
+            45.958444
+        ]
+    },
+    "properties": {
+        "feet": 11512.46756,
+        "meters": 3509.0,
+        "latitude": 45.958444,
+        "longitude": 7.048028,
+        "name": "Grande Lui",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

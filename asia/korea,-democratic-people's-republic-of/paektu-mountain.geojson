@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            128.0775,
+            41.99333
+        ]
+    },
+    "properties": {
+        "feet": 9002.62496,
+        "meters": 2744.0,
+        "latitude": 41.99333,
+        "longitude": 128.0775,
+        "name": "Paektu Mountain",
+        "countries": [
+            "Korea, Democratic People's Republic of"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

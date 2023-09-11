@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.02833,
+            46.45111
+        ]
+    },
+    "properties": {
+        "feet": 10003.28116,
+        "meters": 3049.0,
+        "latitude": 46.45111,
+        "longitude": 10.02833,
+        "name": "Piz Minor",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

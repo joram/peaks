@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.597307,
-      46.120782
-    ]
-  },
-  "properties": {
-    "feet": 10860,
-    "meters": 3310,
-    "latitude": 46.120782,
-    "longitude": 7.597307,
-    "name": "Garde de Bordon",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.59722,
+            46.12083
+        ]
+    },
+    "properties": {
+        "feet": 10859.5804,
+        "meters": 3310.0,
+        "latitude": 46.12083,
+        "longitude": 7.59722,
+        "name": "Garde de Bordon",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

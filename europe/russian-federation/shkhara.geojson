@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.11222,
+            43.00056
+        ]
+    },
+    "properties": {
+        "feet": 17070.21052,
+        "meters": 5203.0,
+        "latitude": 43.00056,
+        "longitude": 43.11222,
+        "name": "Shkhara",
+        "countries": [
+            "Russian Federation"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

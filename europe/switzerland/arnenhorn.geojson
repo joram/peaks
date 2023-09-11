@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.19389,
+            46.38083
+        ]
+    },
+    "properties": {
+        "feet": 7253.93724,
+        "meters": 2211.0,
+        "latitude": 46.38083,
+        "longitude": 7.19389,
+        "name": "Arnenhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

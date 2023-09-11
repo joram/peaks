@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.84389,
+            45.72639
+        ]
+    },
+    "properties": {
+        "feet": 7276.90312,
+        "meters": 2218.0,
+        "latitude": 45.72639,
+        "longitude": 10.84389,
+        "name": "Monte Baldo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

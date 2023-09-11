@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.0725,
+            46.79056
+        ]
+    },
+    "properties": {
+        "feet": 7270.34144,
+        "meters": 2216.0,
+        "latitude": 46.79056,
+        "longitude": 8.0725,
+        "name": "Arnihaaggen",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

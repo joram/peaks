@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.490894694,
+            46.202411792
+        ]
+    },
+    "properties": {
+        "feet": 12281.0,
+        "meters": 3743.2486802160424,
+        "latitude": 46.202411792,
+        "longitude": -121.490894694,
+        "name": "Mount Adams",
+        "countries": [
+            "Bolivia, Plurinational State of"
+        ],
+        "continent": "South America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

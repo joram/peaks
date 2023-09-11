@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.42111,
+            46.643694
+        ]
+    },
+    "properties": {
+        "feet": 11909.4492,
+        "meters": 3630.0,
+        "latitude": 46.643694,
+        "longitude": 8.42111,
+        "name": "Dammastock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

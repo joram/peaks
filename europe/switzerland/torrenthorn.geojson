@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.678444,
+            46.3775
+        ]
+    },
+    "properties": {
+        "feet": 9835.95832,
+        "meters": 2998.0,
+        "latitude": 46.3775,
+        "longitude": 7.678444,
+        "name": "Torrenthorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

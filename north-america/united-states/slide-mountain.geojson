@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -74.3858,
-            41.9992
+            -74.38639,
+            41.99861
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 41.9992,
-        "longitude": -74.3858,
+        "feet": 4166.6668,
+        "meters": 1270.0,
+        "latitude": 41.99861,
+        "longitude": -74.38639,
         "name": "Slide Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "New York"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

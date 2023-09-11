@@ -17,7 +17,7 @@
             "Liberia"
         ],
         "continent": "Africa",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

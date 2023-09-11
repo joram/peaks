@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            68.17222,
+            38.94833
+        ]
+    },
+    "properties": {
+        "feet": 15232.94012,
+        "meters": 4643.0,
+        "latitude": 38.94833,
+        "longitude": 68.17222,
+        "name": "Khazret Sultan",
+        "countries": [
+            "Tajikistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

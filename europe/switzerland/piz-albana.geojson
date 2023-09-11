@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.77361,
+            46.48111
+        ]
+    },
+    "properties": {
+        "feet": 10170.604,
+        "meters": 3100.0,
+        "latitude": 46.48111,
+        "longitude": 9.77361,
+        "name": "Piz Albana",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

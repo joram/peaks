@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.979639,
+            47.325611
+        ]
+    },
+    "properties": {
+        "feet": 4238.517196000001,
+        "meters": 1291.9,
+        "latitude": 47.325611,
+        "longitude": 8.979639,
+        "name": "Schnebelhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 7103,
-    "meters": 2165,
-    "name": "Monte Cimone",
-    "regions": [
-      "Italian Peninsula and Islands",
-      "Apennines"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.70139,
+            44.19389
+        ]
+    },
+    "properties": {
+        "feet": 7103.0186,
+        "meters": 2165.0,
+        "latitude": 44.19389,
+        "longitude": 10.70139,
+        "name": "Monte Cimone",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

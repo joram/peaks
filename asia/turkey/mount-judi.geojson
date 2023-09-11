@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.34417,
+            37.36944
+        ]
+    },
+    "properties": {
+        "feet": 6853.67476,
+        "meters": 2089.0,
+        "latitude": 37.36944,
+        "longitude": 42.34417,
+        "name": "Mount Judi",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

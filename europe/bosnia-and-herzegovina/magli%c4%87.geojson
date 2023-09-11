@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.73694,
+            43.28111
+        ]
+    },
+    "properties": {
+        "feet": 7828.08424,
+        "meters": 2386.0,
+        "latitude": 43.28111,
+        "longitude": 18.73694,
+        "name": "Magli%C4%87",
+        "countries": [
+            "Bosnia and Herzegovina"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

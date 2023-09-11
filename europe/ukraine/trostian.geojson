@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.39194,
+            48.85667
+        ]
+    },
+    "properties": {
+        "feet": 4041.99488,
+        "meters": 1232.0,
+        "latitude": 48.85667,
+        "longitude": 23.39194,
+        "name": "Trostian",
+        "countries": [
+            "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

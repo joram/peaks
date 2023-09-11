@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            57.4,
+            23.1
+        ]
+    },
+    "properties": {
+        "feet": 9776.9032,
+        "meters": 2980.0,
+        "latitude": 23.1,
+        "longitude": 57.4,
+        "name": "Jebel Akhdar",
+        "countries": [
+            "Oman"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

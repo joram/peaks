@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.97583,
+            45.93389
+        ]
+    },
+    "properties": {
+        "feet": 13238.1894,
+        "meters": 4035.0,
+        "latitude": 45.93389,
+        "longitude": 6.97583,
+        "name": "Aiguille du Jardin",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            56.116889,
+            25.926111
+        ]
+    },
+    "properties": {
+        "feet": 5062.33612,
+        "meters": 1543.0,
+        "latitude": 25.926111,
+        "longitude": 56.116889,
+        "name": "Jabal Ra%E1%B8%A9abah",
+        "countries": [
+            "United Arab Emirates"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

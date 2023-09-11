@@ -3,21 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            null,
-            null
+            -146.6025,
+            63.55611
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": null,
-        "longitude": null,
+        "feet": 12360.0,
+        "meters": 3767.3278794455077,
+        "latitude": 63.55611,
+        "longitude": -146.6025,
         "name": "Moby Dick",
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": null,
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

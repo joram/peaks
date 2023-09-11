@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.38333,
+            44.89333
+        ]
+    },
+    "properties": {
+        "feet": 12837.92692,
+        "meters": 3913.0,
+        "latitude": 44.89333,
+        "longitude": 6.38333,
+        "name": "Pic Sans Nom",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

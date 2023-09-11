@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12320,
-    "meters": 3755,
-    "name": "Aiguille du Dru",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.95639,
+            45.93278
+        ]
+    },
+    "properties": {
+        "feet": 12316.27336,
+        "meters": 3754.0,
+        "latitude": 45.93278,
+        "longitude": 6.95639,
+        "name": "Aiguille du Dru",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

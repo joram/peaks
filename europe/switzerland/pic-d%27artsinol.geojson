@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.427028,
+            46.115056
+        ]
+    },
+    "properties": {
+        "feet": 9835.95832,
+        "meters": 2998.0,
+        "latitude": 46.115056,
+        "longitude": 7.427028,
+        "name": "Pic d%27Artsinol",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

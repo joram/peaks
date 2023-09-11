@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.49083,
+            45.87028
+        ]
+    },
+    "properties": {
+        "feet": 11496.06336,
+        "meters": 3504.0,
+        "latitude": 45.87028,
+        "longitude": 7.49083,
+        "name": "Becca di Luseney",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

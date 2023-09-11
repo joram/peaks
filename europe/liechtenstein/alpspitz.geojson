@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.55389,
+            47.14861
+        ]
+    },
+    "properties": {
+        "feet": 6374.67212,
+        "meters": 1943.0,
+        "latitude": 47.14861,
+        "longitude": 9.55389,
+        "name": "Alpspitz",
+        "countries": [
+            "Liechtenstein"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.635286,
+            47.498231
+        ]
+    },
+    "properties": {
+        "feet": 6758.5304,
+        "meters": 2060.0,
+        "latitude": 47.498231,
+        "longitude": 10.635286,
+        "name": "Babylonischer Turm",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

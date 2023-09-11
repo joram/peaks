@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.1237194,
+            47.4631806
+        ]
+    },
+    "properties": {
+        "feet": 2483.59588,
+        "meters": 757.0,
+        "latitude": 47.4631806,
+        "longitude": 8.1237194,
+        "name": "Linnerberg",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

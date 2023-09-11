@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            14.5666667,
+            47.05
+        ]
+    },
+    "properties": {
+        "feet": 7860.89264,
+        "meters": 2396.0,
+        "latitude": 47.05,
+        "longitude": 14.5666667,
+        "name": "Zirbitzkogel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

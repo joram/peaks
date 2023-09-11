@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -109.5625,
-            33.9058
+            -109.562632281,
+            33.905940617
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.9058,
-        "longitude": -109.5625,
+        "feet": 11409.0,
+        "meters": 3477.463088721181,
+        "latitude": 33.905940617,
+        "longitude": -109.562632281,
         "name": "Mount Baldy",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Arizona"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

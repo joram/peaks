@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.647611,
+            46.74725
+        ]
+    },
+    "properties": {
+        "feet": 8940.289,
+        "meters": 2725.0,
+        "latitude": 46.74725,
+        "longitude": 9.647611,
+        "name": "%C3%84lpliseehorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.8480129,
+            45.2174094
+        ]
+    },
+    "properties": {
+        "feet": 9104.331,
+        "meters": 2775.0,
+        "latitude": 45.2174094,
+        "longitude": 6.8480129,
+        "name": "Pointe de Bellecombe",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

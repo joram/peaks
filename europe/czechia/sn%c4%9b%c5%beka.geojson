@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.74028,
+            50.73611
+        ]
+    },
+    "properties": {
+        "feet": 5260.1707719999995,
+        "meters": 1603.3,
+        "latitude": 50.73611,
+        "longitude": 15.74028,
+        "name": "Sn%C4%9B%C5%BEka",
+        "countries": [
+            "Czechia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

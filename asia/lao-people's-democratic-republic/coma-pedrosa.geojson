@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            1.4447806,
+            42.59056
+        ]
+    },
+    "properties": {
+        "feet": 9655.51212,
+        "meters": 2943.0,
+        "latitude": 42.59056,
+        "longitude": 1.4447806,
+        "name": "Coma Pedrosa",
+        "countries": [
+            "Lao People's Democratic Republic"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

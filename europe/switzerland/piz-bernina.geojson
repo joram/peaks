@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9080611,
+            46.3823389
+        ]
+    },
+    "properties": {
+        "feet": 13282.808824,
+        "meters": 4048.6,
+        "latitude": 46.3823389,
+        "longitude": 9.9080611,
+        "name": "Piz Bernina",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

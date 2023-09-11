@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.52333,
+            46.03972
+        ]
+    },
+    "properties": {
+        "feet": 12060.36784,
+        "meters": 3676.0,
+        "latitude": 46.03972,
+        "longitude": 7.52333,
+        "name": "Dent de Perroc",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

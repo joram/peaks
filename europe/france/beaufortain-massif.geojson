@@ -1,0 +1,26 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.5690639,
+            45.6863083
+        ]
+    },
+    "properties": {
+        "feet": 9826.1158,
+        "meters": 2995.0,
+        "latitude": 45.6863083,
+        "longitude": 6.5690639,
+        "name": "Beaufortain Massif",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "states": [
+            "Auvergne-Rh\u00f4ne-Alpes"
+        ]
+    }
+}

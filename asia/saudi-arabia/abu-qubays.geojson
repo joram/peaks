@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.82889,
+            21.42278
+        ]
+    },
+    "properties": {
+        "feet": 1377.9528,
+        "meters": 420.0,
+        "latitude": 21.42278,
+        "longitude": 39.82889,
+        "name": "Abu Qubays",
+        "countries": [
+            "Saudi Arabia"
+        ],
+        "continent": "Asia",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

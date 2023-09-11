@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12625,
-    "meters": 3848,
-    "name": "Monviso",
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.09167,
+            44.6675
+        ]
+    },
+    "properties": {
+        "feet": 12601.70644,
+        "meters": 3841.0,
+        "latitude": 44.6675,
+        "longitude": 7.09167,
+        "name": "Monviso",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

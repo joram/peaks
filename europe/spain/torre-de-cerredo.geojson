@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -4.8517,
+            43.1979
+        ]
+    },
+    "properties": {
+        "feet": 8694.226,
+        "meters": 2650.0,
+        "latitude": 43.1979,
+        "longitude": -4.8517,
+        "name": "Torre de Cerredo",
+        "countries": [
+            "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.98056,
+            46.54722
+        ]
+    },
+    "properties": {
+        "feet": 11361.54892,
+        "meters": 3463.0,
+        "latitude": 46.54722,
+        "longitude": 7.98056,
+        "name": "Jungfraujoch",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

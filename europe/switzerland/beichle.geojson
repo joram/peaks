@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.97306,
+            46.8975
+        ]
+    },
+    "properties": {
+        "feet": 5807.0868,
+        "meters": 1770.0,
+        "latitude": 46.8975,
+        "longitude": 7.97306,
+        "name": "Beichle",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

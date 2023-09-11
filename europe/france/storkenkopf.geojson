@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.08222,
+            47.90472
+        ]
+    },
+    "properties": {
+        "feet": 4481.62744,
+        "meters": 1366.0,
+        "latitude": 47.90472,
+        "longitude": 7.08222,
+        "name": "Storkenkopf",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

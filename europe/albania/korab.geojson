@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.54778,
+            41.79111
+        ]
+    },
+    "properties": {
+        "feet": 9068.24176,
+        "meters": 2764.0,
+        "latitude": 41.79111,
+        "longitude": 20.54778,
+        "name": "Korab",
+        "countries": [
+            "Albania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.01167,
+            46.06861
+        ]
+    },
+    "properties": {
+        "feet": 10006.562,
+        "meters": 3050.0,
+        "latitude": 46.06861,
+        "longitude": 10.01167,
+        "name": "Pizzo Coca",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.980667,
+            48.001152
+        ]
+    },
+    "properties": {
+        "feet": 4314.3046,
+        "meters": 1315.0,
+        "latitude": 48.001152,
+        "longitude": 6.980667,
+        "name": "Rothenbachkopf",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

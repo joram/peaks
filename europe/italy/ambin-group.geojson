@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.835,
+            45.13528
+        ]
+    },
+    "properties": {
+        "feet": 11095.80088,
+        "meters": 3382.0,
+        "latitude": 45.13528,
+        "longitude": 6.835,
+        "name": "Ambin group",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

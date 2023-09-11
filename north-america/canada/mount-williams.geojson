@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.36361,
+            50.71833
+        ]
+    },
+    "properties": {
+        "feet": 8992.782439999999,
+        "meters": 2741.0,
+        "latitude": 50.71833,
+        "longitude": -115.36361,
+        "name": "Mount Williams",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

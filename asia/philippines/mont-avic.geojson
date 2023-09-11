@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.56389,
+            45.69
+        ]
+    },
+    "properties": {
+        "feet": 9862.20504,
+        "meters": 3006.0,
+        "latitude": 45.69,
+        "longitude": 7.56389,
+        "name": "Mont Avic",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -9,6 +9,7 @@ from urllib.parse import urlencode
 import requests
 from unidecode import unidecode
 
+
 def extract_coordinates(input_string):
     s = input_string.replace("°", "")
     parts = s.split(" ")
@@ -86,6 +87,7 @@ def get_cache(url: str) -> Optional[str]:
         f.write(response.text)
     return response.text
 
+
 def elevation_feet(elevation):
     if elevation is None:
         return None
@@ -106,6 +108,7 @@ def elevation_feet(elevation):
                     return s * 3.28084
             except:
                 continue
+
 def elevation_meters(elevation):
     if elevation is None:
         return None

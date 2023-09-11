@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.06694,
+            47.59417
+        ]
+    },
+    "properties": {
+        "feet": 8274.27848,
+        "meters": 2522.0,
+        "latitude": 47.59417,
+        "longitude": 13.06694,
+        "name": "Hoher G%C3%B6ll",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

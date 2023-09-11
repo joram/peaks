@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            98.48667,
+            18.5875
+        ]
+    },
+    "properties": {
+        "feet": 8415.3546,
+        "meters": 2565.0,
+        "latitude": 18.5875,
+        "longitude": 98.48667,
+        "name": "Doi Inthanon",
+        "countries": [
+            "Thailand"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

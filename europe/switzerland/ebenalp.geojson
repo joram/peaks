@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.41083,
+            47.28417
+        ]
+    },
+    "properties": {
+        "feet": 5380.5776,
+        "meters": 1640.0,
+        "latitude": 47.28417,
+        "longitude": 9.41083,
+        "name": "Ebenalp",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

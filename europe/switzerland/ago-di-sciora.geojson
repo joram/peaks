@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.62583,
+            46.30167
+        ]
+    },
+    "properties": {
+        "feet": 10515.0922,
+        "meters": 3205.0,
+        "latitude": 46.30167,
+        "longitude": 9.62583,
+        "name": "Ago di Sciora",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

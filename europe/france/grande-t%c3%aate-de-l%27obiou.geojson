@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.83944,
+            44.77528
+        ]
+    },
+    "properties": {
+        "feet": 9153.543599999999,
+        "meters": 2790.0,
+        "latitude": 44.77528,
+        "longitude": 5.83944,
+        "name": "Grande T%C3%AAte de l%27Obiou",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

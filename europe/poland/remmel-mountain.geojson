@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.192342,
+            48.97566
+        ]
+    },
+    "properties": {
+        "feet": 8690.0,
+        "meters": 2648.711915241219,
+        "latitude": 48.97566,
+        "longitude": -120.192342,
+        "name": "Remmel Mountain",
+        "countries": [
+            "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

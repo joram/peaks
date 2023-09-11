@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.34222,
+            52.80556
+        ]
+    },
+    "properties": {
+        "feet": 9511.15516,
+        "meters": 2899.0,
+        "latitude": 52.80556,
+        "longitude": -118.34222,
+        "name": "Basilica Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

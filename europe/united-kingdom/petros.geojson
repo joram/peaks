@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.42111,
+            48.17278
+        ]
+    },
+    "properties": {
+        "feet": 6627.2968,
+        "meters": 2020.0,
+        "latitude": 48.17278,
+        "longitude": 24.42111,
+        "name": "Petros",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.962639,
+            46.687056
+        ]
+    },
+    "properties": {
+        "feet": 10593.83236,
+        "meters": 3229.0,
+        "latitude": 46.687056,
+        "longitude": 9.962639,
+        "name": "Piz Vadret",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

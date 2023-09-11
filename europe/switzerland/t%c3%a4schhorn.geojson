@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.85722,
+            46.08361
+        ]
+    },
+    "properties": {
+        "feet": 14734.25244,
+        "meters": 4491.0,
+        "latitude": 46.08361,
+        "longitude": 7.85722,
+        "name": "T%C3%A4schhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

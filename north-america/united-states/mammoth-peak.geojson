@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.26361,
+            37.85528
+        ]
+    },
+    "properties": {
+        "feet": 12112.0,
+        "meters": 3691.7374818644007,
+        "latitude": 37.85528,
+        "longitude": -119.26361,
+        "name": "Mammoth Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

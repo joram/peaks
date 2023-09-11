@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.529542,
+            46.497843
+        ]
+    },
+    "properties": {
+        "feet": 11637.0,
+        "meters": 3546.9574864973606,
+        "latitude": 46.497843,
+        "longitude": 10.529542,
+        "name": "Gro%C3%9Fer Eiskogel",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

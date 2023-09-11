@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            55.7775,
+            24.05861
+        ]
+    },
+    "properties": {
+        "feet": 4097.76916,
+        "meters": 1249.0,
+        "latitude": 24.05861,
+        "longitude": 55.7775,
+        "name": "Jebel Hafeet",
+        "countries": [
+            "Oman"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

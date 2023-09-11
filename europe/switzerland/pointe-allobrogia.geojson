@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.06417,
+            45.90917
+        ]
+    },
+    "properties": {
+        "feet": 10406.82448,
+        "meters": 3172.0,
+        "latitude": 45.90917,
+        "longitude": 7.06417,
+        "name": "Pointe Allobrogia",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

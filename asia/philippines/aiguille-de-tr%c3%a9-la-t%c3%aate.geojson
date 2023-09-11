@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.815,
+            45.795
+        ]
+    },
+    "properties": {
+        "feet": 12893.7012,
+        "meters": 3930.0,
+        "latitude": 45.795,
+        "longitude": 6.815,
+        "name": "Aiguille de Tr%C3%A9 la T%C3%AAte",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

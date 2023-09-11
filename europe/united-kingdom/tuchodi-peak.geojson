@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -124.88,
+            58.09111
+        ]
+    },
+    "properties": {
+        "feet": 9514.436,
+        "meters": 2900.0,
+        "latitude": 58.09111,
+        "longitude": -124.88,
+        "name": "Tuchodi Peak",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

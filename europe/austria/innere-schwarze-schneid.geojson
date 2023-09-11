@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.92111,
+            46.92389
+        ]
+    },
+    "properties": {
+        "feet": 11046.58828,
+        "meters": 3367.0,
+        "latitude": 46.92389,
+        "longitude": 10.92111,
+        "name": "Innere Schwarze Schneid",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

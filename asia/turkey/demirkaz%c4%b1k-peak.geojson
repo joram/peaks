@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.1556,
+            37.7964
+        ]
+    },
+    "properties": {
+        "feet": 12322.83504,
+        "meters": 3756.0,
+        "latitude": 37.7964,
+        "longitude": 35.1556,
+        "name": "Demirkaz%C4%B1k Peak",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.315361,
+            46.343833
+        ]
+    },
+    "properties": {
+        "feet": 9957.3494,
+        "meters": 3035.0,
+        "latitude": 46.343833,
+        "longitude": 7.315361,
+        "name": "Arpelistock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

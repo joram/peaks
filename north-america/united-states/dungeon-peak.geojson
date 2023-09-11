@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.350256,
+            47.400863
+        ]
+    },
+    "properties": {
+        "feet": 5640.0,
+        "meters": 1719.0719449896978,
+        "latitude": 47.400863,
+        "longitude": -121.350256,
+        "name": "Dungeon Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

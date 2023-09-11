@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            2.81417,
+            45.52833
+        ]
+    },
+    "properties": {
+        "feet": 6187.66424,
+        "meters": 1886.0,
+        "latitude": 45.52833,
+        "longitude": 2.81417,
+        "name": "Puy de Sancy",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.0373,
+            46.50108
+        ]
+    },
+    "properties": {
+        "feet": 8690.94516,
+        "meters": 2649.0,
+        "latitude": 46.50108,
+        "longitude": 12.0373,
+        "name": "Averau",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

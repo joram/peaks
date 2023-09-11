@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.12194,
+            41.32167
+        ]
+    },
+    "properties": {
+        "feet": 6663.38604,
+        "meters": 2031.0,
+        "latitude": 41.32167,
+        "longitude": 23.12194,
+        "name": "Radomir",
+        "countries": [
+            "Bulgaria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

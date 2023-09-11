@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.759944,
+            46.490917
+        ]
+    },
+    "properties": {
+        "feet": 11089.2392,
+        "meters": 3380.0,
+        "latitude": 46.490917,
+        "longitude": 9.759944,
+        "name": "Piz Julier",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.545,
+            46.50889
+        ]
+    },
+    "properties": {
+        "feet": 12811.6802,
+        "meters": 3905.0,
+        "latitude": 46.50889,
+        "longitude": 10.545,
+        "name": "Ortler",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

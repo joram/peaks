@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.95167,
+            45.86194
+        ]
+    },
+    "properties": {
+        "feet": 13166.01092,
+        "meters": 4013.0,
+        "latitude": 45.86194,
+        "longitude": 6.95167,
+        "name": "Dent du G%C3%A9ant",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

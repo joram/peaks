@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.31,
+            46.59472
+        ]
+    },
+    "properties": {
+        "feet": 5508.53036,
+        "meters": 1679.0,
+        "latitude": 46.59472,
+        "longitude": 6.31,
+        "name": "Mont Tendre",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

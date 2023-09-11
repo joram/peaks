@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.73583,
+            47.14694
+        ]
+    },
+    "properties": {
+        "feet": 11227.03448,
+        "meters": 3422.0,
+        "latitude": 47.14694,
+        "longitude": 12.73583,
+        "name": "Klockerin",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

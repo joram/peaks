@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.46806,
+            45.9975
+        ]
+    },
+    "properties": {
+        "feet": 7664.04224,
+        "meters": 2336.0,
+        "latitude": 45.9975,
+        "longitude": 11.46806,
+        "name": "Cima Dodici",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

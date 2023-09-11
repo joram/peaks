@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -3.31139,
+            37.05333
+        ]
+    },
+    "properties": {
+        "feet": 11423.88488,
+        "meters": 3482.0,
+        "latitude": 37.05333,
+        "longitude": -3.31139,
+        "name": "Mulhac%C3%A9n",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

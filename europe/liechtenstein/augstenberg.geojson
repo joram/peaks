@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.61,
+            47.0825
+        ]
+    },
+    "properties": {
+        "feet": 7739.50156,
+        "meters": 2359.0,
+        "latitude": 47.0825,
+        "longitude": 9.61,
+        "name": "Augstenberg",
+        "countries": [
+            "Liechtenstein"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

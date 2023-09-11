@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.036056,
+            45.952944
+        ]
+    },
+    "properties": {
+        "feet": 12312.99252,
+        "meters": 3753.0,
+        "latitude": 45.952944,
+        "longitude": 7.036056,
+        "name": "Aiguille de l%27A Neuve",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

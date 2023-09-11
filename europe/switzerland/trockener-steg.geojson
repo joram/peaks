@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.722361,
+            45.971417
+        ]
+    },
+    "properties": {
+        "feet": 9642.38876,
+        "meters": 2939.0,
+        "latitude": 45.971417,
+        "longitude": 7.722361,
+        "name": "Trockener Steg",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

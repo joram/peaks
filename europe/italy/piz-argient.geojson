@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.92525,
+            46.3659111
+        ]
+    },
+    "properties": {
+        "feet": 12942.9138,
+        "meters": 3945.0,
+        "latitude": 46.3659111,
+        "longitude": 9.92525,
+        "name": "Piz Argient",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

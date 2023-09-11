@@ -8,8 +8,8 @@
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 6942.25744,
+        "meters": 2116.0,
         "latitude": 47.57083,
         "longitude": 12.32194,
         "name": "Predigtstuhl",

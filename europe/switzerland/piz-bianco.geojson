@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.9065,
+            46.384611
+        ]
+    },
+    "properties": {
+        "feet": 13106.9558,
+        "meters": 3995.0,
+        "latitude": 46.384611,
+        "longitude": 9.9065,
+        "name": "Piz Bianco",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

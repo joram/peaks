@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.26306,
+            69.30806
+        ]
+    },
+    "properties": {
+        "feet": 4343.83216,
+        "meters": 1324.0,
+        "latitude": 69.30806,
+        "longitude": 21.26306,
+        "name": "Halti",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

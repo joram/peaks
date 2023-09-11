@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.60778,
+            47.42306
+        ]
+    },
+    "properties": {
+        "feet": 7565.61704,
+        "meters": 2306.0,
+        "latitude": 47.42306,
+        "longitude": 11.60778,
+        "name": "Schaufelspitze",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

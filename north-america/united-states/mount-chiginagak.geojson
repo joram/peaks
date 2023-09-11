@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -156.9911,
-            57.1333
+            -156.99139,
+            57.13361
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 57.1333,
-        "longitude": -156.9911,
+        "feet": 7287.0,
+        "meters": 2221.077528925519,
+        "latitude": 57.13361,
+        "longitude": -156.99139,
         "name": "Mount Chiginagak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

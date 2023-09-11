@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.97583,
+            15.27917
+        ]
+    },
+    "properties": {
+        "feet": 12027.559439999999,
+        "meters": 3666.0,
+        "latitude": 15.27917,
+        "longitude": 43.97583,
+        "name": "Jabal An-Nabi Shu%27ayb",
+        "countries": [
+            "Yemen"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

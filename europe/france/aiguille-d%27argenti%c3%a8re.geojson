@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.02028,
+            45.95972
+        ]
+    },
+    "properties": {
+        "feet": 12798.55684,
+        "meters": 3901.0,
+        "latitude": 45.95972,
+        "longitude": 7.02028,
+        "name": "Aiguille d%27Argenti%C3%A8re",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

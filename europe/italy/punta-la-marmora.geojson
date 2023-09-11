@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.32417,
+            39.98806
+        ]
+    },
+    "properties": {
+        "feet": 6017.06056,
+        "meters": 1834.0,
+        "latitude": 39.98806,
+        "longitude": 9.32417,
+        "name": "Punta La Marmora",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

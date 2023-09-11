@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            80.175,
+            42.21083
+        ]
+    },
+    "properties": {
+        "feet": 22998.6884,
+        "meters": 7010.0,
+        "latitude": 42.21083,
+        "longitude": 80.175,
+        "name": "Khan Tengri",
+        "countries": [
+            "Uganda"
+        ],
+        "continent": "Africa",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.24444,
+            46.96583
+        ]
+    },
+    "properties": {
+        "feet": 10485.56464,
+        "meters": 3196.0,
+        "latitude": 46.96583,
+        "longitude": 11.24444,
+        "name": "Agglsspitze",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

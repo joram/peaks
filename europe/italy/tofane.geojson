@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.05,
+            46.533
+        ]
+    },
+    "properties": {
+        "feet": 10643.04496,
+        "meters": 3244.0,
+        "latitude": 46.533,
+        "longitude": 12.05,
+        "name": "Tofane",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.74222,
+            46.40583
+        ]
+    },
+    "properties": {
+        "feet": 9396.32576,
+        "meters": 2864.0,
+        "latitude": 46.40583,
+        "longitude": 8.74222,
+        "name": "Pizzo Barone",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

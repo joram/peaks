@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.86722,
+            46.88528
+        ]
+    },
+    "properties": {
+        "feet": 12368.7668,
+        "meters": 3770.0,
+        "latitude": 46.88528,
+        "longitude": 10.86722,
+        "name": "Wildspitze",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,15 +3,15 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -118.12917,
-            50.55167
+            -65.42889,
+            66.54694
         ]
     },
     "properties": {
-        "feet": 9744.0948,
-        "meters": 2970.0,
-        "latitude": 50.55167,
-        "longitude": -118.12917,
+        "feet": 7043.96348,
+        "meters": 2147.0,
+        "latitude": 66.54694,
+        "longitude": -65.42889,
         "name": "Mount Odin",
         "countries": [
             "Canada"

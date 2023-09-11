@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.0267892,
+            37.4804963
+        ]
+    },
+    "properties": {
+        "feet": 11660.0,
+        "meters": 3553.9678862730275,
+        "latitude": 37.4804963,
+        "longitude": -119.0267892,
+        "name": "Sharktooth Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

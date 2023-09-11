@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.74917,
+            46.26917
+        ]
+    },
+    "properties": {
+        "feet": 12066.92952,
+        "meters": 3678.0,
+        "latitude": 46.26917,
+        "longitude": 9.74917,
+        "name": "Monte Disgrazia",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

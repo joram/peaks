@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.060444,
+            45.95889
+        ]
+    },
+    "properties": {
+        "feet": 11528.87176,
+        "meters": 3514.0,
+        "latitude": 45.95889,
+        "longitude": 7.060444,
+        "name": "Grand Darray",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.55806,
+            47.53694
+        ]
+    },
+    "properties": {
+        "feet": 6515.74824,
+        "meters": 1986.0,
+        "latitude": 47.53694,
+        "longitude": 10.55806,
+        "name": "Aggenstein",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

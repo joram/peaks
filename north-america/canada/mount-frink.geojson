@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -125.40861,
+            49.66333
+        ]
+    },
+    "properties": {
+        "feet": 6397.638,
+        "meters": 1950.0,
+        "latitude": 49.66333,
+        "longitude": -125.40861,
+        "name": "Mount Frink",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

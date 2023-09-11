@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -103.5325,
-            43.8658
+            -103.532431997,
+            43.865847725
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 43.8658,
-        "longitude": -103.5325,
+        "feet": 7244.0,
+        "meters": 2207.971129344924,
+        "latitude": 43.865847725,
+        "longitude": -103.532431997,
         "name": "Black Elk Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "South Dakota"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

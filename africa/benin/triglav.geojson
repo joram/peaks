@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.83667,
+            46.37833
+        ]
+    },
+    "properties": {
+        "feet": 9396.32576,
+        "meters": 2864.0,
+        "latitude": 46.37833,
+        "longitude": 13.83667,
+        "name": "Triglav",
+        "countries": [
+            "Benin"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

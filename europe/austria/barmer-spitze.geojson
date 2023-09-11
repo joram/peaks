@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.15278,
+            46.91667
+        ]
+    },
+    "properties": {
+        "feet": 10498.688,
+        "meters": 3200.0,
+        "latitude": 46.91667,
+        "longitude": 12.15278,
+        "name": "Barmer Spitze",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

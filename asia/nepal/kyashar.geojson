@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.82278,
+            27.755
+        ]
+    },
+    "properties": {
+        "feet": 22208.00596,
+        "meters": 6769.0,
+        "latitude": 27.755,
+        "longitude": 86.82278,
+        "name": "Kyashar",
+        "countries": [
+            "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

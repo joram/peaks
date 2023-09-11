@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.45083,
+            44.07306
+        ]
+    },
+    "properties": {
+        "feet": 9422.57248,
+        "meters": 2872.0,
+        "latitude": 44.07306,
+        "longitude": 7.45083,
+        "name": "Mont B%C3%A9go",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

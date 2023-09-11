@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.8776,
+            69.4693
+        ]
+    },
+    "properties": {
+        "feet": 6017.06056,
+        "meters": 1834.0,
+        "latitude": 69.4693,
+        "longitude": 19.8776,
+        "name": "Jiehkkev%C3%A1rri",
+        "countries": [
+            "Norway"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

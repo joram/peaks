@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -110.3728,
-            40.7764
+            -110.3728151,
+            40.7763818
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 40.7764,
-        "longitude": -110.3728,
+        "feet": 13528.0,
+        "meters": 4123.334268053303,
+        "latitude": 40.7763818,
+        "longitude": -110.3728151,
         "name": "Kings Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Utah"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.55611,
+            45.95556
+        ]
+    },
+    "properties": {
+        "feet": 9032.15252,
+        "meters": 2753.0,
+        "latitude": 45.95556,
+        "longitude": 6.55611,
+        "name": "Pointe Perc%C3%A9e",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.358194,
+            46.76972
+        ]
+    },
+    "properties": {
+        "feet": 9983.59612,
+        "meters": 3043.0,
+        "latitude": 46.76972,
+        "longitude": 10.358194,
+        "name": "Piz Triazza",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

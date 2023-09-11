@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.8875,
+            46.2575
+        ]
+    },
+    "properties": {
+        "feet": 6699.47528,
+        "meters": 2042.0,
+        "latitude": 46.2575,
+        "longitude": 6.8875,
+        "name": "Pointe de Bellevue",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

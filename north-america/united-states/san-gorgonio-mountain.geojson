@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.825,
-            34.0992
+            -116.824853,
+            34.099162
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 34.0992,
-        "longitude": -116.825,
+        "feet": 11503.0,
+        "meters": 3506.114287804343,
+        "latitude": 34.099162,
+        "longitude": -116.824853,
         "name": "San Gorgonio Mountain",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

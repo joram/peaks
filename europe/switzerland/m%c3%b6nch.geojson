@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.99722,
+            46.55833
+        ]
+    },
+    "properties": {
+        "feet": 13484.2524,
+        "meters": 4110.0,
+        "latitude": 46.55833,
+        "longitude": 7.99722,
+        "name": "M%C3%B6nch",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

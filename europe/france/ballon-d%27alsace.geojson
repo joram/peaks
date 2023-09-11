@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.84528,
+            47.82222
+        ]
+    },
+    "properties": {
+        "feet": 4091.20748,
+        "meters": 1247.0,
+        "latitude": 47.82222,
+        "longitude": 6.84528,
+        "name": "Ballon d%27Alsace",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 14088,
-    "meters": 4294,
-    "name": "Lenzspitze",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.868444,
+            46.104639
+        ]
+    },
+    "properties": {
+        "feet": 14087.92696,
+        "meters": 4294.0,
+        "latitude": 46.104639,
+        "longitude": 7.868444,
+        "name": "Lenzspitze",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

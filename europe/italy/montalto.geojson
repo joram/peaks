@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            15.92111,
+            38.15889
+        ]
+    },
+    "properties": {
+        "feet": 6414.0422,
+        "meters": 1955.0,
+        "latitude": 38.15889,
+        "longitude": 15.92111,
+        "name": "Montalto",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

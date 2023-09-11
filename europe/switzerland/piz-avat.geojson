@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.906333,
+            46.767611
+        ]
+    },
+    "properties": {
+        "feet": 9547.2444,
+        "meters": 2910.0,
+        "latitude": 46.767611,
+        "longitude": 8.906333,
+        "name": "Piz Avat",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

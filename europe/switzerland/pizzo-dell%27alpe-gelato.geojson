@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.44306,
+            46.25139
+        ]
+    },
+    "properties": {
+        "feet": 8572.83492,
+        "meters": 2613.0,
+        "latitude": 46.25139,
+        "longitude": 8.44306,
+        "name": "Pizzo dell%27Alpe Gelato",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

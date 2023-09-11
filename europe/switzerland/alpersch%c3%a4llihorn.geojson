@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.30722,
+            46.58694
+        ]
+    },
+    "properties": {
+        "feet": 9970.47276,
+        "meters": 3039.0,
+        "latitude": 46.58694,
+        "longitude": 9.30722,
+        "name": "Alpersch%C3%A4llihorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

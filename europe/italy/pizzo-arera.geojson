@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.814947,
+            45.9357
+        ]
+    },
+    "properties": {
+        "feet": 8241.47008,
+        "meters": 2512.0,
+        "latitude": 45.9357,
+        "longitude": 9.814947,
+        "name": "Pizzo Arera",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

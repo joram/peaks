@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.87333,
+            45.9875
+        ]
+    },
+    "properties": {
+        "feet": 9727.6906,
+        "meters": 2965.0,
+        "latitude": 45.9875,
+        "longitude": 6.87333,
+        "name": "Aiguille du Belv%C3%A9d%C3%A8re",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

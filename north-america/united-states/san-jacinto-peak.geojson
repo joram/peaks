@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -116.6794,
-            33.8147
+            -116.679438022,
+            33.814712342
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 33.8147,
-        "longitude": -116.6794,
+        "feet": 10834.0,
+        "meters": 3302.203094329501,
+        "latitude": 33.814712342,
+        "longitude": -116.679438022,
         "name": "San Jacinto Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "California"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

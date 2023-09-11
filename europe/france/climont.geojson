@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.185,
+            48.34583
+        ]
+    },
+    "properties": {
+        "feet": 3166.0106,
+        "meters": 965.0,
+        "latitude": 48.34583,
+        "longitude": 7.185,
+        "name": "Climont",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

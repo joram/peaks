@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            19.812632,
+            42.441956
+        ]
+    },
+    "properties": {
+        "feet": 8838.58296,
+        "meters": 2694.0,
+        "latitude": 42.441956,
+        "longitude": 19.812632,
+        "name": "Jezerc%C3%AB",
+        "countries": [
+            "Albania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

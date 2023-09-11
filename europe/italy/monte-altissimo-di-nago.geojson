@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.888056,
+            45.810556
+        ]
+    },
+    "properties": {
+        "feet": 6818.0,
+        "meters": 2078.126333499957,
+        "latitude": 45.810556,
+        "longitude": 10.888056,
+        "name": "Monte Altissimo di Nago",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

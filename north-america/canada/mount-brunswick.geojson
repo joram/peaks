@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -123.20139,
+            49.48778
+        ]
+    },
+    "properties": {
+        "feet": 5866.14192,
+        "meters": 1788.0,
+        "latitude": 49.48778,
+        "longitude": -123.20139,
+        "name": "Mount Brunswick",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

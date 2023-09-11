@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.983,
+            44.983
+        ]
+    },
+    "properties": {
+        "feet": 9977.03444,
+        "meters": 3041.0,
+        "latitude": 44.983,
+        "longitude": 6.983,
+        "name": "Monte Albergian",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

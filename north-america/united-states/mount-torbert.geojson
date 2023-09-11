@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -152.4125,
-            61.4086
+            -152.41389,
+            61.40889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 61.4086,
-        "longitude": -152.4125,
+        "feet": 11413.0,
+        "meters": 3478.682288682167,
+        "latitude": 61.40889,
+        "longitude": -152.41389,
         "name": "Mount Torbert",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

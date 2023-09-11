@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.62755,
+            46.3031806
+        ]
+    },
+    "properties": {
+        "feet": 10623.35992,
+        "meters": 3238.0,
+        "latitude": 46.3031806,
+        "longitude": 9.62755,
+        "name": "Punta Pioda",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -76.5789,
-            18.0464
+            -76.57917,
+            18.04667
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 18.0464,
-        "longitude": -76.5789,
+        "feet": 7401.57504,
+        "meters": 2256.0,
+        "latitude": 18.04667,
+        "longitude": -76.57917,
         "name": "Blue Mountain Peak",
-        "regions": [],
         "countries": [
             "Jamaica"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

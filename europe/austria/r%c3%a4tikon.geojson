@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.71278,
+            47.05389
+        ]
+    },
+    "properties": {
+        "feet": 9724.40976,
+        "meters": 2964.0,
+        "latitude": 47.05389,
+        "longitude": 9.71278,
+        "name": "R%C3%A4tikon",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

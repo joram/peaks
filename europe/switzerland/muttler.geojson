@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.378722,
+            46.900639
+        ]
+    },
+    "properties": {
+        "feet": 10807.08696,
+        "meters": 3294.0,
+        "latitude": 46.900639,
+        "longitude": 10.378722,
+        "name": "Muttler",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.320306,
+            50.211889
+        ]
+    },
+    "properties": {
+        "feet": 5977.69048,
+        "meters": 1822.0,
+        "latitude": 50.211889,
+        "longitude": -126.320306,
+        "name": "Mount Abel",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

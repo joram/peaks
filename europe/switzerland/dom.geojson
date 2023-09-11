@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.85,
-      46.1
-    ]
-  },
-  "properties": {
-    "feet": 14911,
-    "meters": 4545,
-    "latitude": 46.1,
-    "longitude": 7.85,
-    "name": "Dom",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.86,
+            46.095
+        ]
+    },
+    "properties": {
+        "feet": 14911.4178,
+        "meters": 4545.0,
+        "latitude": 46.095,
+        "longitude": 7.86,
+        "name": "Dom",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

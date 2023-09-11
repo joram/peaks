@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.33444,
+            46.34639
+        ]
+    },
+    "properties": {
+        "feet": 10055.7746,
+        "meters": 3065.0,
+        "latitude": 46.34639,
+        "longitude": 7.33444,
+        "name": "Geltenhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

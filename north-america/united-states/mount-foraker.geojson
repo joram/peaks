@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -151.3997,
-            62.9603
+            -151.39806,
+            62.96083
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 62.9603,
-        "longitude": -151.3997,
+        "feet": 17400.0,
+        "meters": 5303.519830287365,
+        "latitude": 62.96083,
+        "longitude": -151.39806,
         "name": "Mount Foraker",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

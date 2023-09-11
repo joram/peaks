@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.15917,
+            44.11528
+        ]
+    },
+    "properties": {
+        "feet": 5751.31252,
+        "meters": 1753.0,
+        "latitude": 44.11528,
+        "longitude": 10.15917,
+        "name": "Monte Sagro",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

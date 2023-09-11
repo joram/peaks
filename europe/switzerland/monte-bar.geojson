@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.011806,
+            46.10778
+        ]
+    },
+    "properties": {
+        "feet": 5958.00544,
+        "meters": 1816.0,
+        "latitude": 46.10778,
+        "longitude": 9.011806,
+        "name": "Monte Bar",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

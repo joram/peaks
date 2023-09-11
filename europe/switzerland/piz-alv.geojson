@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.49278,
+            46.52611
+        ]
+    },
+    "properties": {
+        "feet": 9366.7982,
+        "meters": 2855.0,
+        "latitude": 46.52611,
+        "longitude": 9.49278,
+        "name": "Piz Alv",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

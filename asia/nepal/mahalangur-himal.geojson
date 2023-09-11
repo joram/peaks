@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            86.92528,
+            27.98806
+        ]
+    },
+    "properties": {
+        "feet": 29028.87232,
+        "meters": 8848.0,
+        "latitude": 27.98806,
+        "longitude": 86.92528,
+        "name": "Mahalangur Himal",
+        "countries": [
+            "Nepal"
+        ],
+        "continent": "Asia",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
+}

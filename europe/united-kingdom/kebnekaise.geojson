@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            18.52833,
+            67.90444
+        ]
+    },
+    "properties": {
+        "feet": 6876.64064,
+        "meters": 2096.0,
+        "latitude": 67.90444,
+        "longitude": 18.52833,
+        "name": "Kebnekaise",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

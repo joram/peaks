@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 13937,
-    "meters": 4248,
-    "name": "Mont-blanc Du Tacul",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.88778,
+            45.85639
+        ]
+    },
+    "properties": {
+        "feet": 13937.008319999999,
+        "meters": 4248.0,
+        "latitude": 45.85639,
+        "longitude": 6.88778,
+        "name": "Mont Blanc du Tacul",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

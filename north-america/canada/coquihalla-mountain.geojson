@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.06,
+            49.525
+        ]
+    },
+    "properties": {
+        "feet": 7076.77188,
+        "meters": 2157.0,
+        "latitude": 49.525,
+        "longitude": -121.06,
+        "name": "Coquihalla Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

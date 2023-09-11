@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.729667,
+            46.520139
+        ]
+    },
+    "properties": {
+        "feet": 9389.76408,
+        "meters": 2862.0,
+        "latitude": 46.520139,
+        "longitude": 7.729667,
+        "name": "D%C3%BCndenhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

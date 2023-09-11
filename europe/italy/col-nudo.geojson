@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.3333,
-      46.1667
-    ]
-  },
-  "properties": {
-    "feet": 8107,
-    "meters": 2471,
-    "latitude": 46.1667,
-    "longitude": 12.3333,
-    "name": "Col Nudo",
-    "regions": [
-      "Eastern Alps",
-      "Carnic Alps"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.40139,
+            46.22889
+        ]
+    },
+    "properties": {
+        "feet": 8106.95564,
+        "meters": 2471.0,
+        "latitude": 46.22889,
+        "longitude": 12.40139,
+        "name": "Col Nudo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

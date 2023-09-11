@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.862211,
+            48.98209
+        ]
+    },
+    "properties": {
+        "feet": 8306.0,
+        "meters": 2531.668718986601,
+        "latitude": 48.98209,
+        "longitude": -120.862211,
+        "name": "Castle Peak",
+        "countries": [
+            "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

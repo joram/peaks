@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.42972,
+            44.95028
+        ]
+    },
+    "properties": {
+        "feet": 12020.99776,
+        "meters": 3664.0,
+        "latitude": 44.95028,
+        "longitude": 6.42972,
+        "name": "Les Agneaux",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

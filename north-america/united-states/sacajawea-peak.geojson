@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -117.2928,
-            45.245
+            -117.2923994,
+            45.2448735
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 45.245,
-        "longitude": -117.2928,
+        "feet": 9843.0,
+        "meters": 3000.1463039953182,
+        "latitude": 45.2448735,
+        "longitude": -117.2923994,
         "name": "Sacajawea Peak",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Oregon"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

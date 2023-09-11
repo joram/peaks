@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.19917,
+            46.1975
+        ]
+    },
+    "properties": {
+        "feet": 4924.54084,
+        "meters": 1501.0,
+        "latitude": 46.1975,
+        "longitude": 7.19917,
+        "name": "L%27Ard%C3%A8ve",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

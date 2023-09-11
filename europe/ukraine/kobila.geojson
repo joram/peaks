@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.09389,
+            48.03667
+        ]
+    },
+    "properties": {
+        "feet": 3861.54868,
+        "meters": 1177.0,
+        "latitude": 48.03667,
+        "longitude": 24.09389,
+        "name": "Kobila",
+        "countries": [
+            "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.00667,
+            46.07722
+        ]
+    },
+    "properties": {
+        "feet": 6840.5514,
+        "meters": 2085.0,
+        "latitude": 46.07722,
+        "longitude": 7.00667,
+        "name": "Mont de l%27Arpille",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

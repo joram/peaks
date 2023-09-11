@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.022306,
+            46.07425
+        ]
+    },
+    "properties": {
+        "feet": 11440.28908,
+        "meters": 3487.0,
+        "latitude": 46.07425,
+        "longitude": 8.022306,
+        "name": "Sonnighorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

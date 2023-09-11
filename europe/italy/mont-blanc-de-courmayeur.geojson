@@ -1,26 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 15577,
-    "meters": 4748,
-    "name": "Mont Blanc de Courmayeur",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "Italy",
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.86944,
+            45.82889
+        ]
+    },
+    "properties": {
+        "feet": 15577.428319999999,
+        "meters": 4748.0,
+        "latitude": 45.82889,
+        "longitude": 6.86944,
+        "name": "Mont Blanc de Courmayeur",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

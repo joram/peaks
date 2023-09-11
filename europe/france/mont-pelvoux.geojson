@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.39333,
+            44.89806
+        ]
+    },
+    "properties": {
+        "feet": 12946.19464,
+        "meters": 3946.0,
+        "latitude": 44.89806,
+        "longitude": 6.39333,
+        "name": "Mont Pelvoux",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

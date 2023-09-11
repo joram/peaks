@@ -8,8 +8,8 @@
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
+        "feet": 9875.3284,
+        "meters": 3010.0,
         "latitude": 47.17028,
         "longitude": 10.96972,
         "name": "Hochreichkopf",

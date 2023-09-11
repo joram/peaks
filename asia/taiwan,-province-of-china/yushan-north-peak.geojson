@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            120.9597,
+            23.4874
+        ]
+    },
+    "properties": {
+        "feet": 12657.48072,
+        "meters": 3858.0,
+        "latitude": 23.4874,
+        "longitude": 120.9597,
+        "name": "Yushan North Peak",
+        "countries": [
+            "Taiwan, Province of China"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

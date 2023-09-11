@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            30.44194,
+            36.53694
+        ]
+    },
+    "properties": {
+        "feet": 7762.46744,
+        "meters": 2366.0,
+        "latitude": 36.53694,
+        "longitude": 30.44194,
+        "name": "Tahtal%C4%B1 Da%C4%9F%C4%B1",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

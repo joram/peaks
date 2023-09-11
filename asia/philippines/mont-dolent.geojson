@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.04611,
+            45.9225
+        ]
+    },
+    "properties": {
+        "feet": 12542.651319999999,
+        "meters": 3823.0,
+        "latitude": 45.9225,
+        "longitude": 7.04611,
+        "name": "Mont Dolent",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

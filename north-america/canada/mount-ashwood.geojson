@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.603611,
+            50.309694
+        ]
+    },
+    "properties": {
+        "feet": 5777.55924,
+        "meters": 1761.0,
+        "latitude": 50.309694,
+        "longitude": -126.603611,
+        "name": "Mount Ashwood",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

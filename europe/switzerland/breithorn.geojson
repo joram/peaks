@@ -1,28 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.73333,
-      45.9333
-    ]
-  },
-  "properties": {
-    "feet": 13661,
-    "meters": 4164,
-    "latitude": 45.9333,
-    "longitude": 7.73333,
-    "name": "Breithorn",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland",
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.74722,
+            45.94111
+        ]
+    },
+    "properties": {
+        "feet": 13661.41776,
+        "meters": 4164.0,
+        "latitude": 45.94111,
+        "longitude": 7.74722,
+        "name": "Breithorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

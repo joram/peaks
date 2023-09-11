@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.08167,
+            47.61972
+        ]
+    },
+    "properties": {
+        "feet": 5262.46736,
+        "meters": 1604.0,
+        "latitude": 47.61972,
+        "longitude": 13.08167,
+        "name": "Ahornb%C3%BCchsenkopf",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

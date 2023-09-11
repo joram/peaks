@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            42.83417,
+            38.93167
+        ]
+    },
+    "properties": {
+        "feet": 13313.64872,
+        "meters": 4058.0,
+        "latitude": 38.93167,
+        "longitude": 42.83417,
+        "name": "Mount S%C3%BCphan",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

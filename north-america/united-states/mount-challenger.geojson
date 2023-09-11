@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.34222,
+            48.83556
+        ]
+    },
+    "properties": {
+        "feet": 8207.0,
+        "meters": 2501.4935199522074,
+        "latitude": 48.83556,
+        "longitude": -121.34222,
+        "name": "Mount Challenger",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

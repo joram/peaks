@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -151.0064,
-            63.0689
+            -151.0074,
+            63.0695
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 63.0689,
-        "longitude": -151.0064,
+        "feet": 20310.0,
+        "meters": 6190.48780190439,
+        "latitude": 63.0695,
+        "longitude": -151.0074,
         "name": "Denali",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

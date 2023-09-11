@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.93111,
+            46.36833
+        ]
+    },
+    "properties": {
+        "feet": 13110.23664,
+        "meters": 3996.0,
+        "latitude": 46.36833,
+        "longitude": 9.93111,
+        "name": "Piz Zup%C3%B2",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

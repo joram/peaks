@@ -1,28 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.897693,
-      45.853658
-    ]
-  },
-  "properties": {
-    "feet": 12592,
-    "meters": 3838,
-    "latitude": 45.853658,
-    "longitude": 6.897693,
-    "name": "Grand Capucin",
-    "regions": [
-      "Western Alps",
-      "Graian Alps"
-    ],
-    "countries": [
-      "France",
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.89806,
+            45.85167
+        ]
+    },
+    "properties": {
+        "feet": 12591.86392,
+        "meters": 3838.0,
+        "latitude": 45.85167,
+        "longitude": 6.89806,
+        "name": "Grand Capucin",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

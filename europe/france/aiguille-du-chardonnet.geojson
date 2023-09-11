@@ -1,24 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12546,
-    "meters": 3824,
-    "name": "Aiguille du Chardonnet",
-    "regions": [
-      "Western Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.00139,
+            45.96889
+        ]
+    },
+    "properties": {
+        "feet": 12545.93216,
+        "meters": 3824.0,
+        "latitude": 45.96889,
+        "longitude": 7.00139,
+        "name": "Aiguille du Chardonnet",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

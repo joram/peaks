@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.69444,
+            47.075
+        ]
+    },
+    "properties": {
+        "feet": 12460.63032,
+        "meters": 3798.0,
+        "latitude": 47.075,
+        "longitude": 12.69444,
+        "name": "High Tauern",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

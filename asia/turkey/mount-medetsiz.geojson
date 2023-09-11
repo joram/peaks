@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.6331,
+            37.3926
+        ]
+    },
+    "properties": {
+        "feet": 11561.68016,
+        "meters": 3524.0,
+        "latitude": 37.3926,
+        "longitude": 34.6331,
+        "name": "Mount Medetsiz",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

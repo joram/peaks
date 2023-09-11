@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.52444,
+            46.49583
+        ]
+    },
+    "properties": {
+        "feet": 11981.62768,
+        "meters": 3652.0,
+        "latitude": 46.49583,
+        "longitude": 10.52444,
+        "name": "Thurwieserspitze",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

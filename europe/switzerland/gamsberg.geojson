@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.3745,
+            47.135361
+        ]
+    },
+    "properties": {
+        "feet": 7821.52256,
+        "meters": 2384.0,
+        "latitude": 47.135361,
+        "longitude": 9.3745,
+        "name": "Gamsberg",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.83667,
+            42.59889
+        ]
+    },
+    "properties": {
+        "feet": 12919.94792,
+        "meters": 3938.0,
+        "latitude": 42.59889,
+        "longitude": 43.83667,
+        "name": "Mount Khalatsa",
+        "countries": [
+            "Cameroon"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

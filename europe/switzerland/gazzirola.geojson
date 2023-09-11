@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.0725,
+            46.11806
+        ]
+    },
+    "properties": {
+        "feet": 6942.25744,
+        "meters": 2116.0,
+        "latitude": 46.11806,
+        "longitude": 9.0725,
+        "name": "Gazzirola",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,23 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.26667,
-      46.35
-    ]
-  },
-  "properties": {
-    "feet": 7657,
-    "meters": 2334,
-    "latitude": 46.35,
-    "longitude": 7.26667,
-    "name": "Mittaghorn",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.932611,
+            46.49825
+        ]
+    },
+    "properties": {
+        "feet": 12769.02928,
+        "meters": 3892.0,
+        "latitude": 46.49825,
+        "longitude": 7.932611,
+        "name": "Mittaghorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -100.2325,
+            24.87167
+        ]
+    },
+    "properties": {
+        "feet": 12208.00564,
+        "meters": 3721.0,
+        "latitude": 24.87167,
+        "longitude": -100.2325,
+        "name": "Cerro Potos%C3%AD",
+        "countries": [
+            "Mexico"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

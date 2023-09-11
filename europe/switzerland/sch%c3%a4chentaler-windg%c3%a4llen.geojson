@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.791639,
+            46.887917
+        ]
+    },
+    "properties": {
+        "feet": 9068.24176,
+        "meters": 2764.0,
+        "latitude": 46.887917,
+        "longitude": 8.791639,
+        "name": "Sch%C3%A4chentaler Windg%C3%A4llen",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

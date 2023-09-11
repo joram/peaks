@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            66.55667,
+            37.7875
+        ]
+    },
+    "properties": {
+        "feet": 10295.27592,
+        "meters": 3138.0,
+        "latitude": 37.7875,
+        "longitude": 66.55667,
+        "name": "A%C3%BDrybaba",
+        "countries": [
+            "Turkmenistan"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      9.371796,
-      47.239588
-    ]
-  },
-  "properties": {
-    "feet": 7992,
-    "meters": 2436,
-    "latitude": 47.239588,
-    "longitude": 9.371796,
-    "name": "Altmann",
-    "regions": [
-      "Northern Alps",
-      "Saint Gallen Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.371778,
+            47.239556
+        ]
+    },
+    "properties": {
+        "feet": 7988.8454,
+        "meters": 2435.0,
+        "latitude": 47.239556,
+        "longitude": 9.371778,
+        "name": "Altmann",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

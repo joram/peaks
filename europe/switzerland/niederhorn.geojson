@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.77333,
+            46.71083
+        ]
+    },
+    "properties": {
+        "feet": 6440.28892,
+        "meters": 1963.0,
+        "latitude": 46.71083,
+        "longitude": 7.77333,
+        "name": "Niederhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

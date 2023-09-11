@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.31694,
+            46.63694
+        ]
+    },
+    "properties": {
+        "feet": 7345.80076,
+        "meters": 2239.0,
+        "latitude": 46.63694,
+        "longitude": 7.31694,
+        "name": "Schafberg",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

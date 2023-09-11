@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.90722,
+            45.89167
+        ]
+    },
+    "properties": {
+        "feet": 12050.52532,
+        "meters": 3673.0,
+        "latitude": 45.89167,
+        "longitude": 6.90722,
+        "name": "Aiguille du Plan",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

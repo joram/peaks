@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.25889,
+            48.23472
+        ]
+    },
+    "properties": {
+        "feet": 3241.46992,
+        "meters": 988.0,
+        "latitude": 48.23472,
+        "longitude": 7.25889,
+        "name": "Taennchel",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

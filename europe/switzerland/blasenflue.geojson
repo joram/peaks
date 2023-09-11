@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.69583,
+            46.93222
+        ]
+    },
+    "properties": {
+        "feet": 3667.97912,
+        "meters": 1118.0,
+        "latitude": 46.93222,
+        "longitude": 7.69583,
+        "name": "Blasenflue",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.13583,
+            45.13806
+        ]
+    },
+    "properties": {
+        "feet": 11368.1106,
+        "meters": 3465.0,
+        "latitude": 45.13806,
+        "longitude": 6.13583,
+        "name": "Pic Bayle",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

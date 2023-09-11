@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.315722,
+            46.598944
+        ]
+    },
+    "properties": {
+        "feet": 9849.08168,
+        "meters": 3002.0,
+        "latitude": 46.598944,
+        "longitude": 9.315722,
+        "name": "Pizzas d%27Anarosa",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

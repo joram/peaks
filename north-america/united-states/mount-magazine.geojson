@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -93.644725919,
+            35.167016203
+        ]
+    },
+    "properties": {
+        "feet": 2753.0,
+        "meters": 839.1143731483401,
+        "latitude": 35.167016203,
+        "longitude": -93.644725919,
+        "name": "Mount Magazine",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

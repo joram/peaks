@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.83111,
+            45.85056
+        ]
+    },
+    "properties": {
+        "feet": 12673.88492,
+        "meters": 3863.0,
+        "latitude": 45.85056,
+        "longitude": 6.83111,
+        "name": "Aiguille du Go%C3%BBter",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

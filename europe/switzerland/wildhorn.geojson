@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.360861,
+            46.354583
+        ]
+    },
+    "properties": {
+        "feet": 10656.16832,
+        "meters": 3248.0,
+        "latitude": 46.354583,
+        "longitude": 7.360861,
+        "name": "Wildhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.365025,
+            45.6881083
+        ]
+    },
+    "properties": {
+        "feet": 10308.39928,
+        "meters": 3142.0,
+        "latitude": 45.6881083,
+        "longitude": 7.365025,
+        "name": "Becca di Nona",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

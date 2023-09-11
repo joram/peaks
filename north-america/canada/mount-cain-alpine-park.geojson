@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.326111,
+            50.228611
+        ]
+    },
+    "properties": {
+        "feet": 5967.84796,
+        "meters": 1819.0,
+        "latitude": 50.228611,
+        "longitude": -126.326111,
+        "name": "Mount Cain Alpine Park",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

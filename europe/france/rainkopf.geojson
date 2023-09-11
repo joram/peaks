@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.98278,
+            48.00972
+        ]
+    },
+    "properties": {
+        "feet": 4281.4962,
+        "meters": 1305.0,
+        "latitude": 48.00972,
+        "longitude": 6.98278,
+        "name": "Rainkopf",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

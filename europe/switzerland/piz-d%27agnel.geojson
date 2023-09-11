@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.70225,
+            46.511444
+        ]
+    },
+    "properties": {
+        "feet": 10515.0922,
+        "meters": 3205.0,
+        "latitude": 46.511444,
+        "longitude": 9.70225,
+        "name": "Piz d%27Agnel",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

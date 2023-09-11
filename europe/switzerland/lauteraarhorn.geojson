@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      8.126621,
-      46.587653
-    ]
-  },
-  "properties": {
-    "feet": 13261,
-    "meters": 4042,
-    "latitude": 46.587653,
-    "longitude": 8.126621,
-    "name": "Lauteraarhorn",
-    "regions": [
-      "Northern Alps",
-      "Berner Oberland"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.128417,
+            46.583389
+        ]
+    },
+    "properties": {
+        "feet": 13261.155279999999,
+        "meters": 4042.0,
+        "latitude": 46.583389,
+        "longitude": 8.128417,
+        "name": "Lauteraarhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

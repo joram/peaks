@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -113.83722,
+            48.40944
+        ]
+    },
+    "properties": {
+        "feet": 7877.0,
+        "meters": 2400.909523170895,
+        "latitude": 48.40944,
+        "longitude": -113.83722,
+        "name": "Mount Penrose",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

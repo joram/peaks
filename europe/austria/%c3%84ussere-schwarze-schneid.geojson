@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.95278,
+            46.9375
+        ]
+    },
+    "properties": {
+        "feet": 10685.69588,
+        "meters": 3257.0,
+        "latitude": 46.9375,
+        "longitude": 10.95278,
+        "name": "%C3%84ussere Schwarze Schneid",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

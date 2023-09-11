@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.98333,
-      46.4667
-    ]
-  },
-  "properties": {
-    "feet": 13763,
-    "meters": 4195,
-    "latitude": 46.4667,
-    "longitude": 7.98333,
-    "name": "Aletschhorn",
-    "regions": [
-      "Northern Alps",
-      "Berner Oberland"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.9936611,
+            46.4651
+        ]
+    },
+    "properties": {
+        "feet": 13759.84296,
+        "meters": 4194.0,
+        "latitude": 46.4651,
+        "longitude": 7.9936611,
+        "name": "Aletschhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

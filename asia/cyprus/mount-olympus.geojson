@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            32.86333,
+            34.93639
+        ]
+    },
+    "properties": {
+        "feet": 6404.19968,
+        "meters": 1952.0,
+        "latitude": 34.93639,
+        "longitude": 32.86333,
+        "name": "Mount Olympus",
+        "countries": [
+            "Cyprus"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

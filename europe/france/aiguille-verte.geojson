@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.43333,
-      45.9833
-    ]
-  },
-  "properties": {
-    "feet": 13524,
-    "meters": 4122,
-    "latitude": 45.9833,
-    "longitude": 6.43333,
-    "name": "Aiguille Verte",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.97,
+            45.93472
+        ]
+    },
+    "properties": {
+        "feet": 13523.62248,
+        "meters": 4122.0,
+        "latitude": 45.93472,
+        "longitude": 6.97,
+        "name": "Aiguille Verte",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

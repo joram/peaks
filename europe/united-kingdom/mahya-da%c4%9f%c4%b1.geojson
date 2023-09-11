@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            27.617,
+            41.783
+        ]
+    },
+    "properties": {
+        "feet": 3382.54604,
+        "meters": 1031.0,
+        "latitude": 41.783,
+        "longitude": 27.617,
+        "name": "Mahya Da%C4%9F%C4%B1",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

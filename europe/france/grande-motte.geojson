@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.87028,
+            45.41111
+        ]
+    },
+    "properties": {
+        "feet": 11984.908519999999,
+        "meters": 3653.0,
+        "latitude": 45.41111,
+        "longitude": 6.87028,
+        "name": "Grande Motte",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

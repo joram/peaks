@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 12638,
-    "meters": 3852,
-    "name": "Grande Casse",
-    "regions": [
-      "Western Alps",
-      "Graian Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.8275,
+            45.40528
+        ]
+    },
+    "properties": {
+        "feet": 12647.6382,
+        "meters": 3855.0,
+        "latitude": 45.40528,
+        "longitude": 6.8275,
+        "name": "Grande Casse",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

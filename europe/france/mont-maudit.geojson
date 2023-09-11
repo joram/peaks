@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.88333,
-      45.85
-    ]
-  },
-  "properties": {
-    "feet": 14649,
-    "meters": 4465,
-    "latitude": 45.85,
-    "longitude": 6.88333,
-    "name": "Mont Maudit",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.87583,
+            45.84778
+        ]
+    },
+    "properties": {
+        "feet": 14648.9506,
+        "meters": 4465.0,
+        "latitude": 45.84778,
+        "longitude": 6.87583,
+        "name": "Mont Maudit",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

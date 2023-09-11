@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -73.9236,
-            44.1128
+            -73.923725878,
+            44.112734392
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 44.1128,
-        "longitude": -73.9236,
+        "feet": 5343.0,
+        "meters": 1628.546347886517,
+        "latitude": 44.112734392,
+        "longitude": -73.923725878,
         "name": "Mount Marcy",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "New York"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

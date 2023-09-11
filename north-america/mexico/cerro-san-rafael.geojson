@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -100.5572,
-            25.3636
+            -100.5571,
+            25.3637
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 25.3636,
-        "longitude": -100.5572,
+        "feet": 12178.47808,
+        "meters": 3712.0,
+        "latitude": 25.3637,
+        "longitude": -100.5571,
         "name": "Cerro San Rafael",
-        "regions": [],
         "countries": [
             "Mexico"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

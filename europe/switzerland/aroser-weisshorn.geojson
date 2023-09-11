@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.638222,
+            46.789583
+        ]
+    },
+    "properties": {
+        "feet": 8704.06852,
+        "meters": 2653.0,
+        "latitude": 46.789583,
+        "longitude": 9.638222,
+        "name": "Aroser Weisshorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

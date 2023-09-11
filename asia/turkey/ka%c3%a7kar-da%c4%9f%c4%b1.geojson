@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            41.1613,
+            40.8355
+        ]
+    },
+    "properties": {
+        "feet": 12916.66708,
+        "meters": 3937.0,
+        "latitude": 40.8355,
+        "longitude": 41.1613,
+        "name": "Ka%C3%A7kar Da%C4%9F%C4%B1",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

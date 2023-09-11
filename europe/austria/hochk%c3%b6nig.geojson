@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            13.063167,
+            47.420806
+        ]
+    },
+    "properties": {
+        "feet": 9648.95044,
+        "meters": 2941.0,
+        "latitude": 47.420806,
+        "longitude": 13.063167,
+        "name": "Hochk%C3%B6nig",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

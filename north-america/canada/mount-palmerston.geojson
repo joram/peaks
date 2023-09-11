@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -126.337194,
+            50.4075
+        ]
+    },
+    "properties": {
+        "feet": 5790.6826,
+        "meters": 1765.0,
+        "latitude": 50.4075,
+        "longitude": -126.337194,
+        "name": "Mount Palmerston",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

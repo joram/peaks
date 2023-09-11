@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.360333,
+            46.104028
+        ]
+    },
+    "properties": {
+        "feet": 10541.33892,
+        "meters": 3213.0,
+        "latitude": 46.104028,
+        "longitude": 7.360333,
+        "name": "Le M%C3%A9tailler",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            21.40528,
+            41.70417
+        ]
+    },
+    "properties": {
+        "feet": 8333.3336,
+        "meters": 2540.0,
+        "latitude": 41.70417,
+        "longitude": 21.40528,
+        "name": "Jakupica",
+        "countries": [
+            "North Macedonia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

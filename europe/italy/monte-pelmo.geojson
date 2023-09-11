@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.13472,
+            46.41972
+        ]
+    },
+    "properties": {
+        "feet": 10393.70112,
+        "meters": 3168.0,
+        "latitude": 46.41972,
+        "longitude": 12.13472,
+        "name": "Monte Pelmo",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

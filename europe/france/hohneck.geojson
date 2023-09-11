@@ -1,25 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 4482,
-    "meters": 1366,
-    "name": "Hohneck",
-    "regions": [
-      "Central Europe Ranges",
-      "North France-West Rhine Area"
-    ],
-    "countries": [
-      "France"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.01639,
+            48.0375
+        ]
+    },
+    "properties": {
+        "feet": 4471.78492,
+        "meters": 1363.0,
+        "latitude": 48.0375,
+        "longitude": 7.01639,
+        "name": "Hohneck",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.402944,
+            46.706028
+        ]
+    },
+    "properties": {
+        "feet": 10511.81136,
+        "meters": 3204.0,
+        "latitude": 46.706028,
+        "longitude": 10.402944,
+        "name": "Piz Sesvenna",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

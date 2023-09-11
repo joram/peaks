@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -120.188954,
+            48.98926
+        ]
+    },
+    "properties": {
+        "feet": 8606.0,
+        "meters": 2623.108716060521,
+        "latitude": 48.98926,
+        "longitude": -120.188954,
+        "name": "Cathedral Peak",
+        "countries": [
+            "Poland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

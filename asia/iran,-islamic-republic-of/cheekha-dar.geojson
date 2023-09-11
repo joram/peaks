@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.91861,
+            36.77667
+        ]
+    },
+    "properties": {
+        "feet": 11847.11324,
+        "meters": 3611.0,
+        "latitude": 36.77667,
+        "longitude": 44.91861,
+        "name": "Cheekha Dar",
+        "countries": [
+            "Iran, Islamic Republic of"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

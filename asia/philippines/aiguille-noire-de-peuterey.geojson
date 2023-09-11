@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.89361,
+            45.815
+        ]
+    },
+    "properties": {
+        "feet": 12378.60932,
+        "meters": 3773.0,
+        "latitude": 45.815,
+        "longitude": 6.89361,
+        "name": "Aiguille Noire de Peuterey",
+        "countries": [
+            "Philippines"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

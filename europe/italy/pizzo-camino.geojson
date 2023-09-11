@@ -1,24 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 8176,
-    "meters": 2492,
-    "name": "Pizzo Camino",
-    "regions": [
-      "Eastern Alps"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.17722,
+            45.98306
+        ]
+    },
+    "properties": {
+        "feet": 8175.85328,
+        "meters": 2492.0,
+        "latitude": 45.98306,
+        "longitude": 10.17722,
+        "name": "Pizzo Camino",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

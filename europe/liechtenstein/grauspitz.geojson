@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.58194,
+            47.05278
+        ]
+    },
+    "properties": {
+        "feet": 8526.90316,
+        "meters": 2599.0,
+        "latitude": 47.05278,
+        "longitude": 9.58194,
+        "name": "Grauspitz",
+        "countries": [
+            "Liechtenstein"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

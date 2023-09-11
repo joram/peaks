@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.432495,
+            40.123457
+        ]
+    },
+    "properties": {
+        "feet": 8143.04488,
+        "meters": 2482.0,
+        "latitude": 40.123457,
+        "longitude": 20.432495,
+        "name": "Maja e Papingut",
+        "countries": [
+            "Albania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

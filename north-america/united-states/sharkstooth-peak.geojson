@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -108.0729727,
+            37.4598078
+        ]
+    },
+    "properties": {
+        "feet": 12468.0,
+        "meters": 3800.246278392119,
+        "latitude": 37.4598078,
+        "longitude": -108.0729727,
+        "name": "Sharkstooth Peak",
+        "countries": [
+            "United States"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

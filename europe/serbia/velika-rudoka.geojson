@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.77639,
+            41.91833
+        ]
+    },
+    "properties": {
+        "feet": 8727.0344,
+        "meters": 2660.0,
+        "latitude": 41.91833,
+        "longitude": 20.77639,
+        "name": "Velika Rudoka",
+        "countries": [
+            "Serbia"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

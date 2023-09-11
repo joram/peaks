@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -119.48222,
+            53.40361
+        ]
+    },
+    "properties": {
+        "feet": 10433.0712,
+        "meters": 3180.0,
+        "latitude": 53.40361,
+        "longitude": -119.48222,
+        "name": "Barricade Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

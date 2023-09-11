@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.48472,
+            46.34611
+        ]
+    },
+    "properties": {
+        "feet": 8359.58032,
+        "meters": 2548.0,
+        "latitude": 46.34611,
+        "longitude": 7.48472,
+        "name": "Bella Lui",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.70361,
+            46.602611
+        ]
+    },
+    "properties": {
+        "feet": 9333.9898,
+        "meters": 2845.0,
+        "latitude": 46.602611,
+        "longitude": 8.70361,
+        "name": "Piz Alpetta",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

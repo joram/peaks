@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -115.22583,
+            50.54139
+        ]
+    },
+    "properties": {
+        "feet": 10029.52788,
+        "meters": 3057.0,
+        "latitude": 50.54139,
+        "longitude": -115.22583,
+        "name": "Mount Mangin",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

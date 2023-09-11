@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.6535,
+            46.413556
+        ]
+    },
+    "properties": {
+        "feet": 11312.33632,
+        "meters": 3448.0,
+        "latitude": 46.413556,
+        "longitude": 7.6535,
+        "name": "Rinderhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

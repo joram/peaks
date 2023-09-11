@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -118.703333,
+            53.046389
+        ]
+    },
+    "properties": {
+        "feet": 9219.1604,
+        "meters": 2810.0,
+        "latitude": 53.046389,
+        "longitude": -118.703333,
+        "name": "Salient Mountain",
+        "countries": [
+            "Canada"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

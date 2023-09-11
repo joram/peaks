@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.095139,
+            46.332639
+        ]
+    },
+    "properties": {
+        "feet": 9816.27328,
+        "meters": 2992.0,
+        "latitude": 46.332639,
+        "longitude": 8.095139,
+        "name": "B%C3%A4ttlihorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

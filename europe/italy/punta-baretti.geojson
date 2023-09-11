@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      6.863502,
-      45.815879
-    ]
-  },
-  "properties": {
-    "feet": 13166,
-    "meters": 4013,
-    "latitude": 45.815879,
-    "longitude": 6.863502,
-    "name": "Punta Baretti",
-    "regions": [
-      "Western Alps",
-      "Savoy Alps"
-    ],
-    "countries": [
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.86333,
+            45.81444
+        ]
+    },
+    "properties": {
+        "feet": 13166.01092,
+        "meters": 4013.0,
+        "latitude": 45.81444,
+        "longitude": 6.86333,
+        "name": "Punta Baretti",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

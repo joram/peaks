@@ -1,26 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 13871,
-    "meters": 4228,
-    "name": "Castor",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland",
-      "Italy"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.79278,
+            45.92222
+        ]
+    },
+    "properties": {
+        "feet": 13854.98732,
+        "meters": 4223.0,
+        "latitude": 45.92222,
+        "longitude": 7.79278,
+        "name": "Castor",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

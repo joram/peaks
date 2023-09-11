@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      12.0,
-      47.7
-    ]
-  },
-  "properties": {
-    "feet": 6030,
-    "meters": 1838,
-    "latitude": 47.7,
-    "longitude": 12.0,
-    "name": "Wendelstein",
-    "regions": [
-      "Northern Alps",
-      "Bavarian Alps"
-    ],
-    "countries": [
-      "Germany"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.01222,
+            47.70278
+        ]
+    },
+    "properties": {
+        "feet": 6030.18392,
+        "meters": 1838.0,
+        "latitude": 47.70278,
+        "longitude": 12.01222,
+        "name": "Wendelstein",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

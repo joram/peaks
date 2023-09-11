@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.55667,
+            48.1
+        ]
+    },
+    "properties": {
+        "feet": 6614.17344,
+        "meters": 2016.0,
+        "latitude": 48.1,
+        "longitude": 24.55667,
+        "name": "Hutyn Tomnatyk",
+        "countries": [
+            "Ukraine"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

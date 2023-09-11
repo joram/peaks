@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.64194,
+            45.27639
+        ]
+    },
+    "properties": {
+        "feet": 11584.64604,
+        "meters": 3531.0,
+        "latitude": 45.27639,
+        "longitude": 6.64194,
+        "name": "Aiguille de Polset",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

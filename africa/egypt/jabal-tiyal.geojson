@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            44.55,
+            15.4125
+        ]
+    },
+    "properties": {
+        "feet": 11453.41244,
+        "meters": 3491.0,
+        "latitude": 15.4125,
+        "longitude": 44.55,
+        "name": "Jabal Tiyal",
+        "countries": [
+            "Egypt"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

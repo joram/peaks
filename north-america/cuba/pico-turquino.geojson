@@ -3,22 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -76.8361,
-            19.9897
+            -76.83583,
+            19.98944
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 19.9897,
-        "longitude": -76.8361,
+        "feet": 6476.37816,
+        "meters": 1974.0,
+        "latitude": 19.98944,
+        "longitude": -76.83583,
         "name": "Pico Turquino",
-        "regions": [],
         "countries": [
             "Cuba"
         ],
         "continent": "North America",
-        "marker-size": "large",
+        "marker-size": "medium",
         "marker-symbol": "triangle"
     }
 }

@@ -1,23 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.61667,
-      46.0333
-    ]
-  },
-  "properties": {
-    "feet": 14291,
-    "meters": 4356,
-    "latitude": 46.0333,
-    "longitude": 7.61667,
-    "name": "Dent Blanche",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "large",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.61194,
+            46.03417
+        ]
+    },
+    "properties": {
+        "feet": 14294.61988,
+        "meters": 4357.0,
+        "latitude": 46.03417,
+        "longitude": 7.61194,
+        "name": "Dent Blanche",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "large",
+        "marker-symbol": "triangle"
+    }
 }

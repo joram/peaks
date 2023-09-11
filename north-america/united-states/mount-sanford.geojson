@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -144.1292,
-            62.2133
+            -144.1288889,
+            62.2138889
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 62.2133,
-        "longitude": -144.1292,
+        "feet": 16237.0,
+        "meters": 4949.037441630802,
+        "latitude": 62.2138889,
+        "longitude": -144.1288889,
         "name": "Mount Sanford",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
         "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-symbol": "triangle"
     }
 }

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.28028,
+            46.37972
+        ]
+    },
+    "properties": {
+        "feet": 9924.541,
+        "meters": 3025.0,
+        "latitude": 46.37972,
+        "longitude": 9.28028,
+        "name": "Piz Corbet",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

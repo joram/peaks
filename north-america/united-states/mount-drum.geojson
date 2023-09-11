@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -144.6394,
-            62.1158
+            -144.6377778,
+            62.1161111
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 62.1158,
-        "longitude": -144.6394,
+        "feet": 12010.0,
+        "meters": 3660.6478828592676,
+        "latitude": 62.1161111,
+        "longitude": -144.6377778,
         "name": "Mount Drum",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

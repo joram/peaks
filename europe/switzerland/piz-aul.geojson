@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.1245,
+            46.622806
+        ]
+    },
+    "properties": {
+        "feet": 10239.50164,
+        "meters": 3121.0,
+        "latitude": 46.622806,
+        "longitude": 9.1245,
+        "name": "Piz Aul",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

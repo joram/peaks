@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -159.4153,
-            64.4536
+            -159.41528,
+            64.45361
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 64.4536,
-        "longitude": -159.4153,
+        "feet": 4030.0,
+        "meters": 1228.3439606929933,
+        "latitude": 64.45361,
+        "longitude": -159.41528,
         "name": "Peak 4030",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

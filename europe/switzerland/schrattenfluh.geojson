@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.957722,
+            46.834361
+        ]
+    },
+    "properties": {
+        "feet": 6863.51728,
+        "meters": 2092.0,
+        "latitude": 46.834361,
+        "longitude": 7.957722,
+        "name": "Schrattenfluh",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

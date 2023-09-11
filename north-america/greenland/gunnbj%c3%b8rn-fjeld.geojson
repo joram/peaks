@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -29.8985333,
+            68.9195
+        ]
+    },
+    "properties": {
+        "feet": 12119.42296,
+        "meters": 3694.0,
+        "latitude": 68.9195,
+        "longitude": -29.8985333,
+        "name": "Gunnbj%C3%B8rn Fjeld",
+        "countries": [
+            "Greenland"
+        ],
+        "continent": "North America",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

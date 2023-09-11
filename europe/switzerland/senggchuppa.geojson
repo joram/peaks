@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.995444,
+            46.179278
+        ]
+    },
+    "properties": {
+        "feet": 11833.98988,
+        "meters": 3607.0,
+        "latitude": 46.179278,
+        "longitude": 7.995444,
+        "name": "Senggchuppa",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

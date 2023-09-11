@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.077722,
+            46.531889
+        ]
+    },
+    "properties": {
+        "feet": 13267.71696,
+        "meters": 4044.0,
+        "latitude": 46.531889,
+        "longitude": 8.077722,
+        "name": "Gr%C3%BCnhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

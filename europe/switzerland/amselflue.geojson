@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.729028,
+            46.763833
+        ]
+    },
+    "properties": {
+        "feet": 9124.01604,
+        "meters": 2781.0,
+        "latitude": 46.763833,
+        "longitude": 9.729028,
+        "name": "Amselflue",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

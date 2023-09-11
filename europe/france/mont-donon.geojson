@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.17083,
+            48.51389
+        ]
+    },
+    "properties": {
+        "feet": 3310.36756,
+        "meters": 1009.0,
+        "latitude": 48.51389,
+        "longitude": 7.17083,
+        "name": "Mont Donon",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

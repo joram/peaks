@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            23.54056,
+            45.34111
+        ]
+    },
+    "properties": {
+        "feet": 8264.43596,
+        "meters": 2519.0,
+        "latitude": 45.34111,
+        "longitude": 23.54056,
+        "name": "Par%C3%A2ngu Mare",
+        "countries": [
+            "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

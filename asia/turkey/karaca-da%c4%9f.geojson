@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            39.83,
+            37.67
+        ]
+    },
+    "properties": {
+        "feet": 6420.60388,
+        "meters": 1957.0,
+        "latitude": 37.67,
+        "longitude": 39.83,
+        "name": "Karaca Da%C4%9F",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

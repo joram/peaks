@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.71227,
+            47.41453
+        ]
+    },
+    "properties": {
+        "feet": 6532.15244,
+        "meters": 1991.0,
+        "latitude": 47.41453,
+        "longitude": 11.71227,
+        "name": "B%C3%A4renkopf",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

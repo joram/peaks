@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.23722,
+            47.32194
+        ]
+    },
+    "properties": {
+        "feet": 7142.0,
+        "meters": 2176.881530339791,
+        "latitude": 47.32194,
+        "longitude": 10.23722,
+        "name": "Alpgundkopf",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            20.464752,
+            40.793338
+        ]
+    },
+    "properties": {
+        "feet": 7785.43332,
+        "meters": 2373.0,
+        "latitude": 40.793338,
+        "longitude": 20.464752,
+        "name": "Valamara",
+        "countries": [
+            "Albania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

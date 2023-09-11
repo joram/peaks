@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            5.79167,
+            45.47667
+        ]
+    },
+    "properties": {
+        "feet": 4330.7088,
+        "meters": 1320.0,
+        "latitude": 45.47667,
+        "longitude": 5.79167,
+        "name": "Mont Beauvoir",
+        "countries": [
+            "France"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

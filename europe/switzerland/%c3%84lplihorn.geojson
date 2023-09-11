@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.825722,
+            46.710806
+        ]
+    },
+    "properties": {
+        "feet": 9862.20504,
+        "meters": 3006.0,
+        "latitude": 46.710806,
+        "longitude": 9.825722,
+        "name": "%C3%84lplihorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

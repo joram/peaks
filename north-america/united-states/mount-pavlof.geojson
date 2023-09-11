@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -161.8933,
-            55.4172
+            -161.895,
+            55.41944
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 55.4172,
-        "longitude": -161.8933,
+        "feet": 8251.0,
+        "meters": 2514.904719523049,
+        "latitude": 55.41944,
+        "longitude": -161.895,
         "name": "Mount Pavlof",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Alaska"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

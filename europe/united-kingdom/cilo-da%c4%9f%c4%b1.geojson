@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            43.967,
+            37.5
+        ]
+    },
+    "properties": {
+        "feet": 13503.93744,
+        "meters": 4116.0,
+        "latitude": 37.5,
+        "longitude": 43.967,
+        "name": "Cilo Da%C4%9F%C4%B1",
+        "countries": [
+            "United Kingdom"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

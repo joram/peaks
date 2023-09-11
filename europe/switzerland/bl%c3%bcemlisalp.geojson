@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.77167,
+            46.48861
+        ]
+    },
+    "properties": {
+        "feet": 12011.15524,
+        "meters": 3661.0,
+        "latitude": 46.48861,
+        "longitude": 7.77167,
+        "name": "Bl%C3%BCemlisalp",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

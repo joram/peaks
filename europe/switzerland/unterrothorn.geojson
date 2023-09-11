@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.7975,
+            46.02194
+        ]
+    },
+    "properties": {
+        "feet": 10183.72736,
+        "meters": 3104.0,
+        "latitude": 46.02194,
+        "longitude": 7.7975,
+        "name": "Unterrothorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

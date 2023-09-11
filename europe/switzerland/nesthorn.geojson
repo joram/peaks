@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.925833,
-      46.413333
-    ]
-  },
-  "properties": {
-    "feet": 12539,
-    "meters": 3822,
-    "latitude": 46.413333,
-    "longitude": 7.925833,
-    "name": "Nesthorn",
-    "regions": [
-      "Northern Alps",
-      "Berner Oberland"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.92583,
+            46.41333
+        ]
+    },
+    "properties": {
+        "feet": 12539.37048,
+        "meters": 3822.0,
+        "latitude": 46.41333,
+        "longitude": 7.92583,
+        "name": "Nesthorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

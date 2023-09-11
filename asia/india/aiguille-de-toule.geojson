@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            6.921995,
+            45.848062
+        ]
+    },
+    "properties": {
+        "feet": 11594.48856,
+        "meters": 3534.0,
+        "latitude": 45.848062,
+        "longitude": 6.921995,
+        "name": "Aiguille de Toule",
+        "countries": [
+            "India"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

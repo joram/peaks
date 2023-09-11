@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.343111,
+            36.124472
+        ]
+    },
+    "properties": {
+        "feet": 1397.63784,
+        "meters": 426.0,
+        "latitude": 36.124472,
+        "longitude": -5.343111,
+        "name": "Rock of Gibraltar",
+        "countries": [
+            "Spain"
+        ],
+        "continent": "Europe",
+        "marker-size": "small",
+        "marker-symbol": "triangle"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.55917,
+            46.520306
+        ]
+    },
+    "properties": {
+        "feet": 10702.10008,
+        "meters": 3262.0,
+        "latitude": 46.520306,
+        "longitude": 9.55917,
+        "name": "Piz Forbesch",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

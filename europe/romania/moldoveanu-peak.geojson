@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            24.73778,
+            45.6
+        ]
+    },
+    "properties": {
+        "feet": 8346.45696,
+        "meters": 2544.0,
+        "latitude": 45.6,
+        "longitude": 24.73778,
+        "name": "Moldoveanu Peak",
+        "countries": [
+            "Romania"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

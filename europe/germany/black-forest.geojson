@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.15,
+            48.3
+        ]
+    },
+    "properties": {
+        "feet": 4898.29412,
+        "meters": 1493.0,
+        "latitude": 48.3,
+        "longitude": 8.15,
+        "name": "Black Forest",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

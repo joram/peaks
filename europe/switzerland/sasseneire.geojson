@@ -1,27 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      7.51538,
-      46.14386
-    ]
-  },
-  "properties": {
-    "feet": 10673,
-    "meters": 3253,
-    "latitude": 46.14386,
-    "longitude": 7.51538,
-    "name": "Sasseneire",
-    "regions": [
-      "Southern Alps",
-      "Pennine Alps"
-    ],
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.525389,
+            46.138639
+        ]
+    },
+    "properties": {
+        "feet": 10675.85336,
+        "meters": 3254.0,
+        "latitude": 46.138639,
+        "longitude": 7.525389,
+        "name": "Sasseneire",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

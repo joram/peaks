@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.231889,
+            46.57556
+        ]
+    },
+    "properties": {
+        "feet": 9609.58036,
+        "meters": 2929.0,
+        "latitude": 46.57556,
+        "longitude": 9.231889,
+        "name": "B%C3%A4renhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

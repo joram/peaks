@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.11028,
+            46.24972
+        ]
+    },
+    "properties": {
+        "feet": 11656.82452,
+        "meters": 3553.0,
+        "latitude": 46.24972,
+        "longitude": 8.11028,
+        "name": "Monte Leone",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

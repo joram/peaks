@@ -3,25 +3,21 @@
     "geometry": {
         "type": "Point",
         "coordinates": [
-            -121.3008,
-            48.9578
+            -152.74306,
+            60.48528
         ]
     },
     "properties": {
-        "feet": null,
-        "meters": null,
-        "latitude": 48.9578,
-        "longitude": -121.3008,
+        "feet": 10197.0,
+        "meters": 3108.045500542544,
+        "latitude": 60.48528,
+        "longitude": -152.74306,
         "name": "Mount Redoubt",
-        "regions": [],
         "countries": [
             "United States"
         ],
         "continent": "North America",
-        "marker-size": "large",
-        "marker-symbol": "triangle",
-        "states": [
-            "Washington"
-        ]
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
     }
 }

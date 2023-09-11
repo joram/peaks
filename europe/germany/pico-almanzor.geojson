@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -5.29778,
+            40.24667
+        ]
+    },
+    "properties": {
+        "feet": 8500.65644,
+        "meters": 2591.0,
+        "latitude": 40.24667,
+        "longitude": -5.29778,
+        "name": "Pico Almanzor",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

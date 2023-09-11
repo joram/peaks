@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.56528,
+            44.43333
+        ]
+    },
+    "properties": {
+        "feet": 4222.44108,
+        "meters": 1287.0,
+        "latitude": 44.43333,
+        "longitude": 8.56528,
+        "name": "Monte Beigua",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

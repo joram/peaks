@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            10.010306,
+            46.718667
+        ]
+    },
+    "properties": {
+        "feet": 9947.50688,
+        "meters": 3032.0,
+        "latitude": 46.718667,
+        "longitude": 10.010306,
+        "name": "Piz Arpschella",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

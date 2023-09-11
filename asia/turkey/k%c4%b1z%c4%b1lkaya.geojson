@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            35.15694,
+            37.79667
+        ]
+    },
+    "properties": {
+        "feet": 12358.92428,
+        "meters": 3767.0,
+        "latitude": 37.79667,
+        "longitude": 35.15694,
+        "name": "K%C4%B1z%C4%B1lkaya",
+        "countries": [
+            "Turkey"
+        ],
+        "continent": "Asia",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

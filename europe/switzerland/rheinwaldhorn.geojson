@@ -1,21 +1,23 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      null,
-      null
-    ]
-  },
-  "properties": {
-    "feet": 11161,
-    "meters": 3402,
-    "name": "Rheinwaldhorn",
-    "countries": [
-      "Switzerland"
-    ],
-    "continent": "Europe",
-    "marker-size": "medium",
-    "marker-symbol": "triangle"
-  }
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            9.04,
+            46.49361
+        ]
+    },
+    "properties": {
+        "feet": 11161.41768,
+        "meters": 3402.0,
+        "latitude": 46.49361,
+        "longitude": 9.04,
+        "name": "Rheinwaldhorn",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
 }

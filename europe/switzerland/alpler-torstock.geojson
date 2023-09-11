@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            8.78139,
+            46.895
+        ]
+    },
+    "properties": {
+        "feet": 8602.36248,
+        "meters": 2622.0,
+        "latitude": 46.895,
+        "longitude": 8.78139,
+        "name": "Alpler Torstock",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

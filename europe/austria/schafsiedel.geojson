@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.11444,
+            47.31472
+        ]
+    },
+    "properties": {
+        "feet": 8028.21548,
+        "meters": 2447.0,
+        "latitude": 47.31472,
+        "longitude": 12.11444,
+        "name": "Schafsiedel",
+        "countries": [
+            "Austria"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

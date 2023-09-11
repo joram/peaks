@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            12.8,
+            47.617
+        ]
+    },
+    "properties": {
+        "feet": 7500.00024,
+        "meters": 2286.0,
+        "latitude": 47.617,
+        "longitude": 12.8,
+        "name": "Reiter Alm",
+        "countries": [
+            "Germany"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

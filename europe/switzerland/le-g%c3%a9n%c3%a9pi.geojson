@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.04417,
+            46.02472
+        ]
+    },
+    "properties": {
+        "feet": 9461.94256,
+        "meters": 2884.0,
+        "latitude": 46.02472,
+        "longitude": 7.04417,
+        "name": "Le G%C3%A9n%C3%A9pi",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

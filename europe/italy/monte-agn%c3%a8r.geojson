@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            11.9339,
+            46.28172
+        ]
+    },
+    "properties": {
+        "feet": 9422.57248,
+        "meters": 2872.0,
+        "latitude": 46.28172,
+        "longitude": 11.9339,
+        "name": "Monte Agn%C3%A8r",
+        "countries": [
+            "Italy"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

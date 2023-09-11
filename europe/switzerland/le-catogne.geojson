@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            7.111444,
+            46.055167
+        ]
+    },
+    "properties": {
+        "feet": 8523.62232,
+        "meters": 2598.0,
+        "latitude": 46.055167,
+        "longitude": 7.111444,
+        "name": "Le Catogne",
+        "countries": [
+            "Switzerland"
+        ],
+        "continent": "Europe",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}

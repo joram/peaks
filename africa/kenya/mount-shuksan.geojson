@@ -1,0 +1,23 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -121.603169886,
+            48.8315495
+        ]
+    },
+    "properties": {
+        "feet": 9131.0,
+        "meters": 2783.1287109398813,
+        "latitude": 48.8315495,
+        "longitude": -121.603169886,
+        "name": "Mount Shuksan",
+        "countries": [
+            "Kenya"
+        ],
+        "continent": "Africa",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+    }
+}
